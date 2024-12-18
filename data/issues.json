@@ -1,0 +1,5890 @@
+{
+    "3.1.0": [
+        {
+            "key": "HIVE-23873",
+            "priority": "Critical"
+        },
+        {
+            "key": "HIVE-23717",
+            "priority": "Major"
+        },
+        {
+            "key": "HIVE-23435",
+            "priority": "Major"
+        },
+        {
+            "key": "HIVE-23347",
+            "priority": "Minor"
+        },
+        {
+            "key": "HIVE-23339",
+            "priority": "Critical"
+        },
+        {
+            "key": "HIVE-23265",
+            "priority": "Critical"
+        },
+        {
+            "key": "HIVE-23230",
+            "priority": "Major"
+        },
+        {
+            "key": "HIVE-23178",
+            "priority": "Major"
+        },
+        {
+            "key": "HIVE-23058",
+            "priority": "Major"
+        },
+        {
+            "key": "HIVE-23033",
+            "priority": "Major"
+        },
+        {
+            "key": "HIVE-22769",
+            "priority": "Critical"
+        },
+        {
+            "key": "HIVE-22687",
+            "priority": "Major"
+        },
+        {
+            "key": "HIVE-22566",
+            "priority": "Minor"
+        },
+        {
+            "key": "HIVE-22527",
+            "priority": "Blocker"
+        },
+        {
+            "key": "HIVE-22420",
+            "priority": "Major"
+        },
+        {
+            "key": "HIVE-22400",
+            "priority": "Minor"
+        },
+        {
+            "key": "HIVE-22208",
+            "priority": "Critical"
+        },
+        {
+            "key": "HIVE-22207",
+            "priority": "Major"
+        },
+        {
+            "key": "HIVE-22178",
+            "priority": "Major"
+        },
+        {
+            "key": "HIVE-22170",
+            "priority": "Major"
+        },
+        {
+            "key": "HIVE-22134",
+            "priority": "Major"
+        },
+        {
+            "key": "HIVE-22129",
+            "priority": "Major"
+        },
+        {
+            "key": "HIVE-22121",
+            "priority": "Major"
+        },
+        {
+            "key": "HIVE-22114",
+            "priority": "Major"
+        },
+        {
+            "key": "HIVE-21941",
+            "priority": "Major"
+        },
+        {
+            "key": "HIVE-21938",
+            "priority": "Blocker"
+        },
+        {
+            "key": "HIVE-21917",
+            "priority": "Major"
+        },
+        {
+            "key": "HIVE-21902",
+            "priority": "Major"
+        },
+        {
+            "key": "HIVE-21831",
+            "priority": "Major"
+        },
+        {
+            "key": "HIVE-21806",
+            "priority": "Major"
+        },
+        {
+            "key": "HIVE-21586",
+            "priority": "Major"
+        },
+        {
+            "key": "HIVE-21540",
+            "priority": "Major"
+        },
+        {
+            "key": "HIVE-21538",
+            "priority": "Major"
+        },
+        {
+            "key": "HIVE-21499",
+            "priority": "Major"
+        },
+        {
+            "key": "HIVE-21436",
+            "priority": "Blocker"
+        },
+        {
+            "key": "HIVE-21376",
+            "priority": "Major"
+        },
+        {
+            "key": "HIVE-21342",
+            "priority": "Major"
+        },
+        {
+            "key": "HIVE-21074",
+            "priority": "Minor"
+        },
+        {
+            "key": "HIVE-21061",
+            "priority": "Major"
+        },
+        {
+            "key": "HIVE-21038",
+            "priority": "Minor"
+        },
+        {
+            "key": "HIVE-21029",
+            "priority": "Critical"
+        },
+        {
+            "key": "HIVE-21002",
+            "priority": "Major"
+        },
+        {
+            "key": "HIVE-20858",
+            "priority": "Major"
+        },
+        {
+            "key": "HIVE-20848",
+            "priority": "Major"
+        },
+        {
+            "key": "HIVE-20792",
+            "priority": "Major"
+        },
+        {
+            "key": "HIVE-20785",
+            "priority": "Major"
+        },
+        {
+            "key": "HIVE-20771",
+            "priority": "Minor"
+        },
+        {
+            "key": "HIVE-20751",
+            "priority": "Major"
+        },
+        {
+            "key": "HIVE-20734",
+            "priority": "Major"
+        },
+        {
+            "key": "HIVE-20714",
+            "priority": "Major"
+        },
+        {
+            "key": "HIVE-20679",
+            "priority": "Major"
+        },
+        {
+            "key": "HIVE-20659",
+            "priority": "Critical"
+        },
+        {
+            "key": "HIVE-20607",
+            "priority": "Major"
+        },
+        {
+            "key": "HIVE-20599",
+            "priority": "Major"
+        },
+        {
+            "key": "HIVE-20593",
+            "priority": "Major"
+        },
+        {
+            "key": "HIVE-20555",
+            "priority": "Major"
+        },
+        {
+            "key": "HIVE-20507",
+            "priority": "Major"
+        },
+        {
+            "key": "HIVE-20499",
+            "priority": "Major"
+        },
+        {
+            "key": "HIVE-20476",
+            "priority": "Major"
+        },
+        {
+            "key": "HIVE-20462",
+            "priority": "Major"
+        },
+        {
+            "key": "HIVE-20433",
+            "priority": "Major"
+        },
+        {
+            "key": "HIVE-20372",
+            "priority": "Trivial"
+        },
+        {
+            "key": "HIVE-20343",
+            "priority": "Major"
+        },
+        {
+            "key": "HIVE-20337",
+            "priority": "Major"
+        },
+        {
+            "key": "HIVE-20316",
+            "priority": "Major"
+        },
+        {
+            "key": "HIVE-20290",
+            "priority": "Blocker"
+        },
+        {
+            "key": "HIVE-20227",
+            "priority": "Major"
+        },
+        {
+            "key": "HIVE-20209",
+            "priority": "Major"
+        },
+        {
+            "key": "HIVE-20192",
+            "priority": "Major"
+        },
+        {
+            "key": "HIVE-20187",
+            "priority": "Blocker"
+        },
+        {
+            "key": "HIVE-20066",
+            "priority": "Major"
+        },
+        {
+            "key": "HIVE-20059",
+            "priority": "Major"
+        },
+        {
+            "key": "HIVE-20040",
+            "priority": "Major"
+        },
+        {
+            "key": "HIVE-20004",
+            "priority": "Critical"
+        },
+        {
+            "key": "HIVE-19984",
+            "priority": "Major"
+        },
+        {
+            "key": "HIVE-19980",
+            "priority": "Major"
+        },
+        {
+            "key": "HIVE-19964",
+            "priority": "Major"
+        },
+        {
+            "key": "HIVE-19956",
+            "priority": "Major"
+        },
+        {
+            "key": "HIVE-19935",
+            "priority": "Minor"
+        },
+        {
+            "key": "HIVE-19886",
+            "priority": "Major"
+        },
+        {
+            "key": "HIVE-19884",
+            "priority": "Major"
+        },
+        {
+            "key": "HIVE-19877",
+            "priority": "Major"
+        },
+        {
+            "key": "HIVE-19876",
+            "priority": "Major"
+        },
+        {
+            "key": "HIVE-19875",
+            "priority": "Major"
+        },
+        {
+            "key": "HIVE-19873",
+            "priority": "Major"
+        },
+        {
+            "key": "HIVE-19864",
+            "priority": "Major"
+        },
+        {
+            "key": "HIVE-19827",
+            "priority": "Major"
+        },
+        {
+            "key": "HIVE-19817",
+            "priority": "Critical"
+        },
+        {
+            "key": "HIVE-19801",
+            "priority": "Major"
+        },
+        {
+            "key": "HIVE-19794",
+            "priority": "Major"
+        },
+        {
+            "key": "HIVE-19773",
+            "priority": "Critical"
+        },
+        {
+            "key": "HIVE-19772",
+            "priority": "Critical"
+        },
+        {
+            "key": "HIVE-19726",
+            "priority": "Major"
+        },
+        {
+            "key": "HIVE-19698",
+            "priority": "Major"
+        },
+        {
+            "key": "HIVE-19697",
+            "priority": "Major"
+        },
+        {
+            "key": "HIVE-19677",
+            "priority": "Major"
+        },
+        {
+            "key": "HIVE-19632",
+            "priority": "Major"
+        },
+        {
+            "key": "HIVE-19629",
+            "priority": "Major"
+        },
+        {
+            "key": "HIVE-19614",
+            "priority": "Major"
+        },
+        {
+            "key": "HIVE-19613",
+            "priority": "Major"
+        },
+        {
+            "key": "HIVE-19588",
+            "priority": "Major"
+        },
+        {
+            "key": "HIVE-19575",
+            "priority": "Major"
+        },
+        {
+            "key": "HIVE-19568",
+            "priority": "Major"
+        },
+        {
+            "key": "HIVE-19567",
+            "priority": "Major"
+        },
+        {
+            "key": "HIVE-19485",
+            "priority": "Major"
+        },
+        {
+            "key": "HIVE-19468",
+            "priority": "Major"
+        },
+        {
+            "key": "HIVE-19389",
+            "priority": "Major"
+        },
+        {
+            "key": "HIVE-19388",
+            "priority": "Major"
+        },
+        {
+            "key": "HIVE-19385",
+            "priority": "Major"
+        },
+        {
+            "key": "HIVE-19315",
+            "priority": "Major"
+        },
+        {
+            "key": "HIVE-19277",
+            "priority": "Major"
+        },
+        {
+            "key": "HIVE-19249",
+            "priority": "Major"
+        },
+        {
+            "key": "HIVE-19199",
+            "priority": "Major"
+        },
+        {
+            "key": "HIVE-19168",
+            "priority": "Major"
+        },
+        {
+            "key": "HIVE-18874",
+            "priority": "Major"
+        },
+        {
+            "key": "HIVE-18767",
+            "priority": "Major"
+        },
+        {
+            "key": "HIVE-15190",
+            "priority": "Critical"
+        }
+    ],
+    "2.3.0": [
+        {
+            "key": "HIVE-23807",
+            "priority": "Major"
+        },
+        {
+            "key": "HIVE-21803",
+            "priority": "Major"
+        },
+        {
+            "key": "HIVE-21104",
+            "priority": "Major"
+        },
+        {
+            "key": "HIVE-21009",
+            "priority": "Major"
+        },
+        {
+            "key": "HIVE-20210",
+            "priority": "Major"
+        },
+        {
+            "key": "HIVE-19814",
+            "priority": "Major"
+        },
+        {
+            "key": "HIVE-18250",
+            "priority": "Major"
+        },
+        {
+            "key": "HIVE-18050",
+            "priority": "Major"
+        },
+        {
+            "key": "HIVE-18017",
+            "priority": "Major"
+        },
+        {
+            "key": "HIVE-17985",
+            "priority": "Major"
+        },
+        {
+            "key": "HIVE-17682",
+            "priority": "Critical"
+        },
+        {
+            "key": "HIVE-17664",
+            "priority": "Major"
+        },
+        {
+            "key": "HIVE-17620",
+            "priority": "Major"
+        },
+        {
+            "key": "HIVE-17429",
+            "priority": "Major"
+        },
+        {
+            "key": "HIVE-17391",
+            "priority": "Major"
+        },
+        {
+            "key": "HIVE-17150",
+            "priority": "Major"
+        },
+        {
+            "key": "HIVE-17085",
+            "priority": "Major"
+        },
+        {
+            "key": "HIVE-16958",
+            "priority": "Major"
+        },
+        {
+            "key": "HIVE-16939",
+            "priority": "Major"
+        },
+        {
+            "key": "HIVE-16756",
+            "priority": "Critical"
+        },
+        {
+            "key": "HIVE-16577",
+            "priority": "Blocker"
+        },
+        {
+            "key": "HIVE-16507",
+            "priority": "Major"
+        },
+        {
+            "key": "HIVE-16491",
+            "priority": "Major"
+        },
+        {
+            "key": "HIVE-16310",
+            "priority": "Major"
+        },
+        {
+            "key": "HIVE-16301",
+            "priority": "Blocker"
+        },
+        {
+            "key": "HIVE-15160",
+            "priority": "Major"
+        },
+        {
+            "key": "HIVE-15077",
+            "priority": "Blocker"
+        }
+    ],
+    "3.0.0": [
+        {
+            "key": "HIVE-23719",
+            "priority": "Minor"
+        },
+        {
+            "key": "HIVE-23606",
+            "priority": "Major"
+        },
+        {
+            "key": "HIVE-23454",
+            "priority": "Critical"
+        },
+        {
+            "key": "HIVE-23033",
+            "priority": "Major"
+        },
+        {
+            "key": "HIVE-22769",
+            "priority": "Critical"
+        },
+        {
+            "key": "HIVE-22578",
+            "priority": "Major"
+        },
+        {
+            "key": "HIVE-22412",
+            "priority": "Major"
+        },
+        {
+            "key": "HIVE-22247",
+            "priority": "Major"
+        },
+        {
+            "key": "HIVE-22201",
+            "priority": "Major"
+        },
+        {
+            "key": "HIVE-21999",
+            "priority": "Major"
+        },
+        {
+            "key": "HIVE-21837",
+            "priority": "Major"
+        },
+        {
+            "key": "HIVE-21831",
+            "priority": "Major"
+        },
+        {
+            "key": "HIVE-21614",
+            "priority": "Major"
+        },
+        {
+            "key": "HIVE-21573",
+            "priority": "Critical"
+        },
+        {
+            "key": "HIVE-21280",
+            "priority": "Major"
+        },
+        {
+            "key": "HIVE-21238",
+            "priority": "Major"
+        },
+        {
+            "key": "HIVE-21177",
+            "priority": "Major"
+        },
+        {
+            "key": "HIVE-21146",
+            "priority": "Major"
+        },
+        {
+            "key": "HIVE-21104",
+            "priority": "Major"
+        },
+        {
+            "key": "HIVE-21075",
+            "priority": "Major"
+        },
+        {
+            "key": "HIVE-21074",
+            "priority": "Minor"
+        },
+        {
+            "key": "HIVE-21052",
+            "priority": "Critical"
+        },
+        {
+            "key": "HIVE-21033",
+            "priority": "Major"
+        },
+        {
+            "key": "HIVE-21029",
+            "priority": "Critical"
+        },
+        {
+            "key": "HIVE-21028",
+            "priority": "Major"
+        },
+        {
+            "key": "HIVE-20941",
+            "priority": "Major"
+        },
+        {
+            "key": "HIVE-20659",
+            "priority": "Critical"
+        },
+        {
+            "key": "HIVE-20610",
+            "priority": "Major"
+        },
+        {
+            "key": "HIVE-20601",
+            "priority": "Major"
+        },
+        {
+            "key": "HIVE-20410",
+            "priority": "Major"
+        },
+        {
+            "key": "HIVE-20406",
+            "priority": "Critical"
+        },
+        {
+            "key": "HIVE-20337",
+            "priority": "Major"
+        },
+        {
+            "key": "HIVE-20274",
+            "priority": "Major"
+        },
+        {
+            "key": "HIVE-20258",
+            "priority": "Minor"
+        },
+        {
+            "key": "HIVE-20228",
+            "priority": "Major"
+        },
+        {
+            "key": "HIVE-20226",
+            "priority": "Major"
+        },
+        {
+            "key": "HIVE-20209",
+            "priority": "Major"
+        },
+        {
+            "key": "HIVE-20193",
+            "priority": "Major"
+        },
+        {
+            "key": "HIVE-20192",
+            "priority": "Major"
+        },
+        {
+            "key": "HIVE-20185",
+            "priority": "Major"
+        },
+        {
+            "key": "HIVE-20184",
+            "priority": "Major"
+        },
+        {
+            "key": "HIVE-20182",
+            "priority": "Major"
+        },
+        {
+            "key": "HIVE-20181",
+            "priority": "Major"
+        },
+        {
+            "key": "HIVE-20180",
+            "priority": "Major"
+        },
+        {
+            "key": "HIVE-20168",
+            "priority": "Minor"
+        },
+        {
+            "key": "HIVE-20152",
+            "priority": "Critical"
+        },
+        {
+            "key": "HIVE-20112",
+            "priority": "Major"
+        },
+        {
+            "key": "HIVE-20111",
+            "priority": "Major"
+        },
+        {
+            "key": "HIVE-20105",
+            "priority": "Major"
+        },
+        {
+            "key": "HIVE-20103",
+            "priority": "Major"
+        },
+        {
+            "key": "HIVE-20088",
+            "priority": "Critical"
+        },
+        {
+            "key": "HIVE-20085",
+            "priority": "Major"
+        },
+        {
+            "key": "HIVE-20076",
+            "priority": "Major"
+        },
+        {
+            "key": "HIVE-20043",
+            "priority": "Major"
+        },
+        {
+            "key": "HIVE-20040",
+            "priority": "Major"
+        },
+        {
+            "key": "HIVE-20039",
+            "priority": "Major"
+        },
+        {
+            "key": "HIVE-20025",
+            "priority": "Major"
+        },
+        {
+            "key": "HIVE-20021",
+            "priority": "Major"
+        },
+        {
+            "key": "HIVE-19965",
+            "priority": "Blocker"
+        },
+        {
+            "key": "HIVE-19946",
+            "priority": "Major"
+        },
+        {
+            "key": "HIVE-19917",
+            "priority": "Major"
+        },
+        {
+            "key": "HIVE-19912",
+            "priority": "Major"
+        },
+        {
+            "key": "HIVE-19908",
+            "priority": "Blocker"
+        },
+        {
+            "key": "HIVE-19890",
+            "priority": "Major"
+        },
+        {
+            "key": "HIVE-19888",
+            "priority": "Minor"
+        },
+        {
+            "key": "HIVE-19871",
+            "priority": "Major"
+        },
+        {
+            "key": "HIVE-19861",
+            "priority": "Major"
+        },
+        {
+            "key": "HIVE-19850",
+            "priority": "Major"
+        },
+        {
+            "key": "HIVE-19814",
+            "priority": "Major"
+        },
+        {
+            "key": "HIVE-19806",
+            "priority": "Major"
+        },
+        {
+            "key": "HIVE-19801",
+            "priority": "Major"
+        },
+        {
+            "key": "HIVE-19771",
+            "priority": "Major"
+        },
+        {
+            "key": "HIVE-19750",
+            "priority": "Critical"
+        },
+        {
+            "key": "HIVE-19749",
+            "priority": "Critical"
+        },
+        {
+            "key": "HIVE-19734",
+            "priority": "Major"
+        },
+        {
+            "key": "HIVE-19728",
+            "priority": "Major"
+        },
+        {
+            "key": "HIVE-19718",
+            "priority": "Major"
+        },
+        {
+            "key": "HIVE-19711",
+            "priority": "Minor"
+        },
+        {
+            "key": "HIVE-19695",
+            "priority": "Major"
+        },
+        {
+            "key": "HIVE-19694",
+            "priority": "Major"
+        },
+        {
+            "key": "HIVE-19691",
+            "priority": "Major"
+        },
+        {
+            "key": "HIVE-19687",
+            "priority": "Major"
+        },
+        {
+            "key": "HIVE-19686",
+            "priority": "Major"
+        },
+        {
+            "key": "HIVE-19680",
+            "priority": "Blocker"
+        },
+        {
+            "key": "HIVE-19675",
+            "priority": "Major"
+        },
+        {
+            "key": "HIVE-19661",
+            "priority": "Major"
+        },
+        {
+            "key": "HIVE-19599",
+            "priority": "Blocker"
+        },
+        {
+            "key": "HIVE-19577",
+            "priority": "Major"
+        },
+        {
+            "key": "HIVE-19576",
+            "priority": "Major"
+        },
+        {
+            "key": "HIVE-19569",
+            "priority": "Major"
+        },
+        {
+            "key": "HIVE-19558",
+            "priority": "Major"
+        },
+        {
+            "key": "HIVE-19531",
+            "priority": "Blocker"
+        },
+        {
+            "key": "HIVE-19504",
+            "priority": "Major"
+        },
+        {
+            "key": "HIVE-19497",
+            "priority": "Blocker"
+        },
+        {
+            "key": "HIVE-19483",
+            "priority": "Major"
+        },
+        {
+            "key": "HIVE-19481",
+            "priority": "Major"
+        },
+        {
+            "key": "HIVE-19476",
+            "priority": "Major"
+        },
+        {
+            "key": "HIVE-19435",
+            "priority": "Major"
+        },
+        {
+            "key": "HIVE-19430",
+            "priority": "Major"
+        },
+        {
+            "key": "HIVE-19389",
+            "priority": "Major"
+        },
+        {
+            "key": "HIVE-19388",
+            "priority": "Major"
+        },
+        {
+            "key": "HIVE-19385",
+            "priority": "Major"
+        },
+        {
+            "key": "HIVE-19382",
+            "priority": "Major"
+        },
+        {
+            "key": "HIVE-19365",
+            "priority": "Blocker"
+        },
+        {
+            "key": "HIVE-19358",
+            "priority": "Major"
+        },
+        {
+            "key": "HIVE-19339",
+            "priority": "Major"
+        },
+        {
+            "key": "HIVE-19330",
+            "priority": "Major"
+        },
+        {
+            "key": "HIVE-19327",
+            "priority": "Major"
+        },
+        {
+            "key": "HIVE-19310",
+            "priority": "Major"
+        },
+        {
+            "key": "HIVE-19280",
+            "priority": "Major"
+        },
+        {
+            "key": "HIVE-19277",
+            "priority": "Major"
+        },
+        {
+            "key": "HIVE-19249",
+            "priority": "Major"
+        },
+        {
+            "key": "HIVE-19248",
+            "priority": "Critical"
+        },
+        {
+            "key": "HIVE-19247",
+            "priority": "Major"
+        },
+        {
+            "key": "HIVE-19240",
+            "priority": "Major"
+        },
+        {
+            "key": "HIVE-19233",
+            "priority": "Major"
+        },
+        {
+            "key": "HIVE-19226",
+            "priority": "Major"
+        },
+        {
+            "key": "HIVE-19219",
+            "priority": "Major"
+        },
+        {
+            "key": "HIVE-19215",
+            "priority": "Major"
+        },
+        {
+            "key": "HIVE-19203",
+            "priority": "Minor"
+        },
+        {
+            "key": "HIVE-19200",
+            "priority": "Critical"
+        },
+        {
+            "key": "HIVE-19191",
+            "priority": "Major"
+        },
+        {
+            "key": "HIVE-19186",
+            "priority": "Major"
+        },
+        {
+            "key": "HIVE-19181",
+            "priority": "Major"
+        },
+        {
+            "key": "HIVE-19168",
+            "priority": "Major"
+        },
+        {
+            "key": "HIVE-19137",
+            "priority": "Major"
+        },
+        {
+            "key": "HIVE-19130",
+            "priority": "Major"
+        },
+        {
+            "key": "HIVE-19120",
+            "priority": "Blocker"
+        },
+        {
+            "key": "HIVE-19118",
+            "priority": "Critical"
+        },
+        {
+            "key": "HIVE-19116",
+            "priority": "Critical"
+        },
+        {
+            "key": "HIVE-19110",
+            "priority": "Critical"
+        },
+        {
+            "key": "HIVE-19109",
+            "priority": "Critical"
+        },
+        {
+            "key": "HIVE-19108",
+            "priority": "Critical"
+        },
+        {
+            "key": "HIVE-19105",
+            "priority": "Major"
+        },
+        {
+            "key": "HIVE-19102",
+            "priority": "Critical"
+        },
+        {
+            "key": "HIVE-19081",
+            "priority": "Major"
+        },
+        {
+            "key": "HIVE-19080",
+            "priority": "Major"
+        },
+        {
+            "key": "HIVE-19052",
+            "priority": "Critical"
+        },
+        {
+            "key": "HIVE-19050",
+            "priority": "Minor"
+        },
+        {
+            "key": "HIVE-19043",
+            "priority": "Critical"
+        },
+        {
+            "key": "HIVE-19037",
+            "priority": "Critical"
+        },
+        {
+            "key": "HIVE-19035",
+            "priority": "Critical"
+        },
+        {
+            "key": "HIVE-19032",
+            "priority": "Critical"
+        },
+        {
+            "key": "HIVE-19030",
+            "priority": "Major"
+        },
+        {
+            "key": "HIVE-19024",
+            "priority": "Critical"
+        },
+        {
+            "key": "HIVE-19019",
+            "priority": "Critical"
+        },
+        {
+            "key": "HIVE-19018",
+            "priority": "Major"
+        },
+        {
+            "key": "HIVE-19016",
+            "priority": "Critical"
+        },
+        {
+            "key": "HIVE-19012",
+            "priority": "Major"
+        },
+        {
+            "key": "HIVE-19007",
+            "priority": "Major"
+        },
+        {
+            "key": "HIVE-18991",
+            "priority": "Major"
+        },
+        {
+            "key": "HIVE-18977",
+            "priority": "Major"
+        },
+        {
+            "key": "HIVE-18967",
+            "priority": "Major"
+        },
+        {
+            "key": "HIVE-18965",
+            "priority": "Major"
+        },
+        {
+            "key": "HIVE-18951",
+            "priority": "Minor"
+        },
+        {
+            "key": "HIVE-18888",
+            "priority": "Major"
+        },
+        {
+            "key": "HIVE-18886",
+            "priority": "Major"
+        },
+        {
+            "key": "HIVE-18873",
+            "priority": "Major"
+        },
+        {
+            "key": "HIVE-18858",
+            "priority": "Major"
+        },
+        {
+            "key": "HIVE-18819",
+            "priority": "Critical"
+        },
+        {
+            "key": "HIVE-18818",
+            "priority": "Major"
+        },
+        {
+            "key": "HIVE-18816",
+            "priority": "Major"
+        },
+        {
+            "key": "HIVE-18806",
+            "priority": "Major"
+        },
+        {
+            "key": "HIVE-18800",
+            "priority": "Critical"
+        },
+        {
+            "key": "HIVE-18776",
+            "priority": "Major"
+        },
+        {
+            "key": "HIVE-18769",
+            "priority": "Major"
+        },
+        {
+            "key": "HIVE-18768",
+            "priority": "Major"
+        },
+        {
+            "key": "HIVE-18764",
+            "priority": "Major"
+        },
+        {
+            "key": "HIVE-18762",
+            "priority": "Major"
+        },
+        {
+            "key": "HIVE-18756",
+            "priority": "Critical"
+        },
+        {
+            "key": "HIVE-18713",
+            "priority": "Major"
+        },
+        {
+            "key": "HIVE-18708",
+            "priority": "Major"
+        },
+        {
+            "key": "HIVE-18688",
+            "priority": "Major"
+        },
+        {
+            "key": "HIVE-18680",
+            "priority": "Major"
+        },
+        {
+            "key": "HIVE-18675",
+            "priority": "Major"
+        },
+        {
+            "key": "HIVE-18665",
+            "priority": "Major"
+        },
+        {
+            "key": "HIVE-18653",
+            "priority": "Major"
+        },
+        {
+            "key": "HIVE-18646",
+            "priority": "Trivial"
+        },
+        {
+            "key": "HIVE-18645",
+            "priority": "Trivial"
+        },
+        {
+            "key": "HIVE-18641",
+            "priority": "Major"
+        },
+        {
+            "key": "HIVE-18638",
+            "priority": "Major"
+        },
+        {
+            "key": "HIVE-18637",
+            "priority": "Major"
+        },
+        {
+            "key": "HIVE-18636",
+            "priority": "Blocker"
+        },
+        {
+            "key": "HIVE-18631",
+            "priority": "Blocker"
+        },
+        {
+            "key": "HIVE-18628",
+            "priority": "Major"
+        },
+        {
+            "key": "HIVE-18624",
+            "priority": "Major"
+        },
+        {
+            "key": "HIVE-18617",
+            "priority": "Major"
+        },
+        {
+            "key": "HIVE-18614",
+            "priority": "Major"
+        },
+        {
+            "key": "HIVE-18613",
+            "priority": "Major"
+        },
+        {
+            "key": "HIVE-18611",
+            "priority": "Major"
+        },
+        {
+            "key": "HIVE-18610",
+            "priority": "Major"
+        },
+        {
+            "key": "HIVE-18601",
+            "priority": "Major"
+        },
+        {
+            "key": "HIVE-18599",
+            "priority": "Major"
+        },
+        {
+            "key": "HIVE-18590",
+            "priority": "Major"
+        },
+        {
+            "key": "HIVE-18589",
+            "priority": "Critical"
+        },
+        {
+            "key": "HIVE-18579",
+            "priority": "Critical"
+        },
+        {
+            "key": "HIVE-18574",
+            "priority": "Major"
+        },
+        {
+            "key": "HIVE-18562",
+            "priority": "Critical"
+        },
+        {
+            "key": "HIVE-18558",
+            "priority": "Major"
+        },
+        {
+            "key": "HIVE-18551",
+            "priority": "Critical"
+        },
+        {
+            "key": "HIVE-18547",
+            "priority": "Major"
+        },
+        {
+            "key": "HIVE-18546",
+            "priority": "Major"
+        },
+        {
+            "key": "HIVE-18531",
+            "priority": "Critical"
+        },
+        {
+            "key": "HIVE-18529",
+            "priority": "Major"
+        },
+        {
+            "key": "HIVE-18528",
+            "priority": "Major"
+        },
+        {
+            "key": "HIVE-18524",
+            "priority": "Critical"
+        },
+        {
+            "key": "HIVE-18521",
+            "priority": "Critical"
+        },
+        {
+            "key": "HIVE-18517",
+            "priority": "Critical"
+        },
+        {
+            "key": "HIVE-18501",
+            "priority": "Trivial"
+        },
+        {
+            "key": "HIVE-18493",
+            "priority": "Critical"
+        },
+        {
+            "key": "HIVE-18473",
+            "priority": "Major"
+        },
+        {
+            "key": "HIVE-18472",
+            "priority": "Major"
+        },
+        {
+            "key": "HIVE-18467",
+            "priority": "Major"
+        },
+        {
+            "key": "HIVE-18465",
+            "priority": "Major"
+        },
+        {
+            "key": "HIVE-18450",
+            "priority": "Major"
+        },
+        {
+            "key": "HIVE-18426",
+            "priority": "Major"
+        },
+        {
+            "key": "HIVE-18422",
+            "priority": "Minor"
+        },
+        {
+            "key": "HIVE-18421",
+            "priority": "Major"
+        },
+        {
+            "key": "HIVE-18419",
+            "priority": "Major"
+        },
+        {
+            "key": "HIVE-18416",
+            "priority": "Major"
+        },
+        {
+            "key": "HIVE-18384",
+            "priority": "Major"
+        },
+        {
+            "key": "HIVE-18380",
+            "priority": "Minor"
+        },
+        {
+            "key": "HIVE-18379",
+            "priority": "Minor"
+        },
+        {
+            "key": "HIVE-18365",
+            "priority": "Major"
+        },
+        {
+            "key": "HIVE-18359",
+            "priority": "Major"
+        },
+        {
+            "key": "HIVE-18355",
+            "priority": "Minor"
+        },
+        {
+            "key": "HIVE-18352",
+            "priority": "Major"
+        },
+        {
+            "key": "HIVE-18341",
+            "priority": "Major"
+        },
+        {
+            "key": "HIVE-18321",
+            "priority": "Major"
+        },
+        {
+            "key": "HIVE-18316",
+            "priority": "Major"
+        },
+        {
+            "key": "HIVE-18284",
+            "priority": "Major"
+        },
+        {
+            "key": "HIVE-18269",
+            "priority": "Major"
+        },
+        {
+            "key": "HIVE-18266",
+            "priority": "Major"
+        },
+        {
+            "key": "HIVE-18213",
+            "priority": "Major"
+        },
+        {
+            "key": "HIVE-18201",
+            "priority": "Major"
+        },
+        {
+            "key": "HIVE-18195",
+            "priority": "Blocker"
+        },
+        {
+            "key": "HIVE-18188",
+            "priority": "Major"
+        },
+        {
+            "key": "HIVE-18160",
+            "priority": "Major"
+        },
+        {
+            "key": "HIVE-18124",
+            "priority": "Major"
+        },
+        {
+            "key": "HIVE-18109",
+            "priority": "Major"
+        },
+        {
+            "key": "HIVE-18069",
+            "priority": "Major"
+        },
+        {
+            "key": "HIVE-18067",
+            "priority": "Major"
+        },
+        {
+            "key": "HIVE-18046",
+            "priority": "Minor"
+        },
+        {
+            "key": "HIVE-18026",
+            "priority": "Major"
+        },
+        {
+            "key": "HIVE-18016",
+            "priority": "Trivial"
+        },
+        {
+            "key": "HIVE-18007",
+            "priority": "Major"
+        },
+        {
+            "key": "HIVE-18006",
+            "priority": "Major"
+        },
+        {
+            "key": "HIVE-17985",
+            "priority": "Major"
+        },
+        {
+            "key": "HIVE-17966",
+            "priority": "Trivial"
+        },
+        {
+            "key": "HIVE-17953",
+            "priority": "Trivial"
+        },
+        {
+            "key": "HIVE-17952",
+            "priority": "Trivial"
+        },
+        {
+            "key": "HIVE-17916",
+            "priority": "Major"
+        },
+        {
+            "key": "HIVE-17892",
+            "priority": "Critical"
+        },
+        {
+            "key": "HIVE-17882",
+            "priority": "Major"
+        },
+        {
+            "key": "HIVE-17853",
+            "priority": "Critical"
+        },
+        {
+            "key": "HIVE-17834",
+            "priority": "Major"
+        },
+        {
+            "key": "HIVE-17833",
+            "priority": "Major"
+        },
+        {
+            "key": "HIVE-17831",
+            "priority": "Major"
+        },
+        {
+            "key": "HIVE-17828",
+            "priority": "Major"
+        },
+        {
+            "key": "HIVE-17825",
+            "priority": "Critical"
+        },
+        {
+            "key": "HIVE-17822",
+            "priority": "Major"
+        },
+        {
+            "key": "HIVE-17815",
+            "priority": "Minor"
+        },
+        {
+            "key": "HIVE-17806",
+            "priority": "Major"
+        },
+        {
+            "key": "HIVE-17803",
+            "priority": "Major"
+        },
+        {
+            "key": "HIVE-17798",
+            "priority": "Minor"
+        },
+        {
+            "key": "HIVE-17790",
+            "priority": "Major"
+        },
+        {
+            "key": "HIVE-17781",
+            "priority": "Major"
+        },
+        {
+            "key": "HIVE-17770",
+            "priority": "Minor"
+        },
+        {
+            "key": "HIVE-17762",
+            "priority": "Major"
+        },
+        {
+            "key": "HIVE-17761",
+            "priority": "Major"
+        },
+        {
+            "key": "HIVE-17749",
+            "priority": "Minor"
+        },
+        {
+            "key": "HIVE-17746",
+            "priority": "Major"
+        },
+        {
+            "key": "HIVE-17735",
+            "priority": "Major"
+        },
+        {
+            "key": "HIVE-17726",
+            "priority": "Major"
+        },
+        {
+            "key": "HIVE-17723",
+            "priority": "Major"
+        },
+        {
+            "key": "HIVE-17721",
+            "priority": "Major"
+        },
+        {
+            "key": "HIVE-17720",
+            "priority": "Major"
+        },
+        {
+            "key": "HIVE-17706",
+            "priority": "Major"
+        },
+        {
+            "key": "HIVE-17682",
+            "priority": "Critical"
+        },
+        {
+            "key": "HIVE-17665",
+            "priority": "Major"
+        },
+        {
+            "key": "HIVE-17635",
+            "priority": "Major"
+        },
+        {
+            "key": "HIVE-17633",
+            "priority": "Major"
+        },
+        {
+            "key": "HIVE-17623",
+            "priority": "Major"
+        },
+        {
+            "key": "HIVE-17621",
+            "priority": "Major"
+        },
+        {
+            "key": "HIVE-17620",
+            "priority": "Major"
+        },
+        {
+            "key": "HIVE-17615",
+            "priority": "Major"
+        },
+        {
+            "key": "HIVE-17602",
+            "priority": "Critical"
+        },
+        {
+            "key": "HIVE-17595",
+            "priority": "Major"
+        },
+        {
+            "key": "HIVE-17594",
+            "priority": "Minor"
+        },
+        {
+            "key": "HIVE-17582",
+            "priority": "Major"
+        },
+        {
+            "key": "HIVE-17576",
+            "priority": "Major"
+        },
+        {
+            "key": "HIVE-17574",
+            "priority": "Major"
+        },
+        {
+            "key": "HIVE-17556",
+            "priority": "Major"
+        },
+        {
+            "key": "HIVE-17554",
+            "priority": "Major"
+        },
+        {
+            "key": "HIVE-17530",
+            "priority": "Major"
+        },
+        {
+            "key": "HIVE-17512",
+            "priority": "Minor"
+        },
+        {
+            "key": "HIVE-17510",
+            "priority": "Major"
+        },
+        {
+            "key": "HIVE-17479",
+            "priority": "Major"
+        },
+        {
+            "key": "HIVE-17472",
+            "priority": "Major"
+        },
+        {
+            "key": "HIVE-17464",
+            "priority": "Major"
+        },
+        {
+            "key": "HIVE-17463",
+            "priority": "Minor"
+        },
+        {
+            "key": "HIVE-17457",
+            "priority": "Major"
+        },
+        {
+            "key": "HIVE-17453",
+            "priority": "Trivial"
+        },
+        {
+            "key": "HIVE-17420",
+            "priority": "Major"
+        },
+        {
+            "key": "HIVE-17419",
+            "priority": "Major"
+        },
+        {
+            "key": "HIVE-17417",
+            "priority": "Critical"
+        },
+        {
+            "key": "HIVE-17410",
+            "priority": "Major"
+        },
+        {
+            "key": "HIVE-17403",
+            "priority": "Blocker"
+        },
+        {
+            "key": "HIVE-17394",
+            "priority": "Major"
+        },
+        {
+            "key": "HIVE-17392",
+            "priority": "Major"
+        },
+        {
+            "key": "HIVE-17389",
+            "priority": "Trivial"
+        },
+        {
+            "key": "HIVE-17378",
+            "priority": "Major"
+        },
+        {
+            "key": "HIVE-17377",
+            "priority": "Major"
+        },
+        {
+            "key": "HIVE-17367",
+            "priority": "Major"
+        },
+        {
+            "key": "HIVE-17365",
+            "priority": "Major"
+        },
+        {
+            "key": "HIVE-17357",
+            "priority": "Major"
+        },
+        {
+            "key": "HIVE-17348",
+            "priority": "Major"
+        },
+        {
+            "key": "HIVE-17336",
+            "priority": "Major"
+        },
+        {
+            "key": "HIVE-17333",
+            "priority": "Major"
+        },
+        {
+            "key": "HIVE-17322",
+            "priority": "Minor"
+        },
+        {
+            "key": "HIVE-17305",
+            "priority": "Trivial"
+        },
+        {
+            "key": "HIVE-17286",
+            "priority": "Major"
+        },
+        {
+            "key": "HIVE-17285",
+            "priority": "Major"
+        },
+        {
+            "key": "HIVE-17276",
+            "priority": "Major"
+        },
+        {
+            "key": "HIVE-17274",
+            "priority": "Major"
+        },
+        {
+            "key": "HIVE-17265",
+            "priority": "Major"
+        },
+        {
+            "key": "HIVE-17233",
+            "priority": "Major"
+        },
+        {
+            "key": "HIVE-17220",
+            "priority": "Major"
+        },
+        {
+            "key": "HIVE-17218",
+            "priority": "Major"
+        },
+        {
+            "key": "HIVE-17181",
+            "priority": "Major"
+        },
+        {
+            "key": "HIVE-17169",
+            "priority": "Major"
+        },
+        {
+            "key": "HIVE-17163",
+            "priority": "Major"
+        },
+        {
+            "key": "HIVE-17155",
+            "priority": "Minor"
+        },
+        {
+            "key": "HIVE-17149",
+            "priority": "Major"
+        },
+        {
+            "key": "HIVE-17147",
+            "priority": "Critical"
+        },
+        {
+            "key": "HIVE-17144",
+            "priority": "Major"
+        },
+        {
+            "key": "HIVE-17109",
+            "priority": "Major"
+        },
+        {
+            "key": "HIVE-17088",
+            "priority": "Major"
+        },
+        {
+            "key": "HIVE-17086",
+            "priority": "Major"
+        },
+        {
+            "key": "HIVE-17085",
+            "priority": "Major"
+        },
+        {
+            "key": "HIVE-17079",
+            "priority": "Major"
+        },
+        {
+            "key": "HIVE-17073",
+            "priority": "Major"
+        },
+        {
+            "key": "HIVE-17069",
+            "priority": "Major"
+        },
+        {
+            "key": "HIVE-17067",
+            "priority": "Major"
+        },
+        {
+            "key": "HIVE-17052",
+            "priority": "Major"
+        },
+        {
+            "key": "HIVE-16960",
+            "priority": "Critical"
+        },
+        {
+            "key": "HIVE-16943",
+            "priority": "Major"
+        },
+        {
+            "key": "HIVE-16942",
+            "priority": "Major"
+        },
+        {
+            "key": "HIVE-16939",
+            "priority": "Major"
+        },
+        {
+            "key": "HIVE-16937",
+            "priority": "Major"
+        },
+        {
+            "key": "HIVE-16927",
+            "priority": "Major"
+        },
+        {
+            "key": "HIVE-16920",
+            "priority": "Major"
+        },
+        {
+            "key": "HIVE-16918",
+            "priority": "Major"
+        },
+        {
+            "key": "HIVE-16910",
+            "priority": "Minor"
+        },
+        {
+            "key": "HIVE-16902",
+            "priority": "Major"
+        },
+        {
+            "key": "HIVE-16898",
+            "priority": "Major"
+        },
+        {
+            "key": "HIVE-16888",
+            "priority": "Major"
+        },
+        {
+            "key": "HIVE-16886",
+            "priority": "Major"
+        },
+        {
+            "key": "HIVE-16846",
+            "priority": "Major"
+        },
+        {
+            "key": "HIVE-16839",
+            "priority": "Major"
+        },
+        {
+            "key": "HIVE-16826",
+            "priority": "Minor"
+        },
+        {
+            "key": "HIVE-16821",
+            "priority": "Minor"
+        },
+        {
+            "key": "HIVE-16793",
+            "priority": "Major"
+        },
+        {
+            "key": "HIVE-16776",
+            "priority": "Major"
+        },
+        {
+            "key": "HIVE-16760",
+            "priority": "Major"
+        },
+        {
+            "key": "HIVE-16743",
+            "priority": "Major"
+        },
+        {
+            "key": "HIVE-16737",
+            "priority": "Major"
+        },
+        {
+            "key": "HIVE-16698",
+            "priority": "Major"
+        },
+        {
+            "key": "HIVE-16693",
+            "priority": "Major"
+        },
+        {
+            "key": "HIVE-16678",
+            "priority": "Major"
+        },
+        {
+            "key": "HIVE-16677",
+            "priority": "Major"
+        },
+        {
+            "key": "HIVE-16658",
+            "priority": "Minor"
+        },
+        {
+            "key": "HIVE-16645",
+            "priority": "Minor"
+        },
+        {
+            "key": "HIVE-16640",
+            "priority": "Minor"
+        },
+        {
+            "key": "HIVE-16625",
+            "priority": "Major"
+        },
+        {
+            "key": "HIVE-16603",
+            "priority": "Major"
+        },
+        {
+            "key": "HIVE-16584",
+            "priority": "Major"
+        },
+        {
+            "key": "HIVE-16577",
+            "priority": "Blocker"
+        },
+        {
+            "key": "HIVE-16546",
+            "priority": "Major"
+        },
+        {
+            "key": "HIVE-16538",
+            "priority": "Minor"
+        },
+        {
+            "key": "HIVE-16533",
+            "priority": "Major"
+        },
+        {
+            "key": "HIVE-16524",
+            "priority": "Minor"
+        },
+        {
+            "key": "HIVE-16487",
+            "priority": "Major"
+        },
+        {
+            "key": "HIVE-16451",
+            "priority": "Major"
+        },
+        {
+            "key": "HIVE-16436",
+            "priority": "Major"
+        },
+        {
+            "key": "HIVE-16409",
+            "priority": "Minor"
+        },
+        {
+            "key": "HIVE-16393",
+            "priority": "Major"
+        },
+        {
+            "key": "HIVE-16388",
+            "priority": "Major"
+        },
+        {
+            "key": "HIVE-16384",
+            "priority": "Trivial"
+        },
+        {
+            "key": "HIVE-16380",
+            "priority": "Minor"
+        },
+        {
+            "key": "HIVE-16333",
+            "priority": "Minor"
+        },
+        {
+            "key": "HIVE-16329",
+            "priority": "Major"
+        },
+        {
+            "key": "HIVE-16316",
+            "priority": "Major"
+        },
+        {
+            "key": "HIVE-15995",
+            "priority": "Major"
+        },
+        {
+            "key": "HIVE-15442",
+            "priority": "Minor"
+        },
+        {
+            "key": "HIVE-12734",
+            "priority": "Major"
+        },
+        {
+            "key": "HIVE-11297",
+            "priority": "Major"
+        }
+    ],
+    "2.0.0": [
+        {
+            "key": "HIVE-22412",
+            "priority": "Major"
+        },
+        {
+            "key": "HIVE-22196",
+            "priority": "Major"
+        },
+        {
+            "key": "HIVE-21033",
+            "priority": "Major"
+        },
+        {
+            "key": "HIVE-20345",
+            "priority": "Major"
+        },
+        {
+            "key": "HIVE-18742",
+            "priority": "Major"
+        },
+        {
+            "key": "HIVE-18735",
+            "priority": "Major"
+        },
+        {
+            "key": "HIVE-18624",
+            "priority": "Major"
+        },
+        {
+            "key": "HIVE-18250",
+            "priority": "Major"
+        },
+        {
+            "key": "HIVE-18090",
+            "priority": "Major"
+        },
+        {
+            "key": "HIVE-17368",
+            "priority": "Major"
+        },
+        {
+            "key": "HIVE-16769",
+            "priority": "Major"
+        },
+        {
+            "key": "HIVE-16654",
+            "priority": "Major"
+        },
+        {
+            "key": "HIVE-16507",
+            "priority": "Major"
+        },
+        {
+            "key": "HIVE-16450",
+            "priority": "Major"
+        },
+        {
+            "key": "HIVE-16385",
+            "priority": "Major"
+        },
+        {
+            "key": "HIVE-15769",
+            "priority": "Major"
+        },
+        {
+            "key": "HIVE-15766",
+            "priority": "Major"
+        },
+        {
+            "key": "HIVE-15752",
+            "priority": "Major"
+        },
+        {
+            "key": "HIVE-15517",
+            "priority": "Major"
+        },
+        {
+            "key": "HIVE-15329",
+            "priority": "Major"
+        },
+        {
+            "key": "HIVE-15311",
+            "priority": "Major"
+        },
+        {
+            "key": "HIVE-15297",
+            "priority": "Major"
+        },
+        {
+            "key": "HIVE-15247",
+            "priority": "Major"
+        },
+        {
+            "key": "HIVE-15234",
+            "priority": "Major"
+        },
+        {
+            "key": "HIVE-15160",
+            "priority": "Major"
+        },
+        {
+            "key": "HIVE-15096",
+            "priority": "Major"
+        },
+        {
+            "key": "HIVE-15054",
+            "priority": "Major"
+        },
+        {
+            "key": "HIVE-14393",
+            "priority": "Major"
+        },
+        {
+            "key": "HIVE-14367",
+            "priority": "Major"
+        },
+        {
+            "key": "HIVE-14342",
+            "priority": "Major"
+        },
+        {
+            "key": "HIVE-14324",
+            "priority": "Critical"
+        },
+        {
+            "key": "HIVE-14322",
+            "priority": "Major"
+        },
+        {
+            "key": "HIVE-14296",
+            "priority": "Major"
+        },
+        {
+            "key": "HIVE-14251",
+            "priority": "Major"
+        },
+        {
+            "key": "HIVE-14241",
+            "priority": "Critical"
+        },
+        {
+            "key": "HIVE-14236",
+            "priority": "Major"
+        },
+        {
+            "key": "HIVE-14229",
+            "priority": "Major"
+        },
+        {
+            "key": "HIVE-14210",
+            "priority": "Major"
+        },
+        {
+            "key": "HIVE-14153",
+            "priority": "Major"
+        },
+        {
+            "key": "HIVE-14132",
+            "priority": "Major"
+        },
+        {
+            "key": "HIVE-14038",
+            "priority": "Major"
+        },
+        {
+            "key": "HIVE-14015",
+            "priority": "Major"
+        },
+        {
+            "key": "HIVE-14006",
+            "priority": "Major"
+        },
+        {
+            "key": "HIVE-13989",
+            "priority": "Major"
+        },
+        {
+            "key": "HIVE-13932",
+            "priority": "Major"
+        },
+        {
+            "key": "HIVE-13858",
+            "priority": "Blocker"
+        },
+        {
+            "key": "HIVE-13844",
+            "priority": "Minor"
+        },
+        {
+            "key": "HIVE-13837",
+            "priority": "Major"
+        },
+        {
+            "key": "HIVE-13833",
+            "priority": "Minor"
+        },
+        {
+            "key": "HIVE-13813",
+            "priority": "Major"
+        },
+        {
+            "key": "HIVE-13809",
+            "priority": "Major"
+        },
+        {
+            "key": "HIVE-13756",
+            "priority": "Major"
+        },
+        {
+            "key": "HIVE-13754",
+            "priority": "Major"
+        },
+        {
+            "key": "HIVE-13725",
+            "priority": "Critical"
+        },
+        {
+            "key": "HIVE-13704",
+            "priority": "Critical"
+        },
+        {
+            "key": "HIVE-13699",
+            "priority": "Minor"
+        },
+        {
+            "key": "HIVE-13693",
+            "priority": "Major"
+        },
+        {
+            "key": "HIVE-13676",
+            "priority": "Major"
+        },
+        {
+            "key": "HIVE-13619",
+            "priority": "Major"
+        },
+        {
+            "key": "HIVE-13618",
+            "priority": "Major"
+        },
+        {
+            "key": "HIVE-13608",
+            "priority": "Major"
+        },
+        {
+            "key": "HIVE-13602",
+            "priority": "Major"
+        },
+        {
+            "key": "HIVE-13570",
+            "priority": "Major"
+        },
+        {
+            "key": "HIVE-13561",
+            "priority": "Major"
+        },
+        {
+            "key": "HIVE-13553",
+            "priority": "Minor"
+        },
+        {
+            "key": "HIVE-13542",
+            "priority": "Major"
+        },
+        {
+            "key": "HIVE-13523",
+            "priority": "Major"
+        },
+        {
+            "key": "HIVE-13512",
+            "priority": "Minor"
+        },
+        {
+            "key": "HIVE-13463",
+            "priority": "Major"
+        },
+        {
+            "key": "HIVE-13456",
+            "priority": "Major"
+        },
+        {
+            "key": "HIVE-13452",
+            "priority": "Major"
+        },
+        {
+            "key": "HIVE-13440",
+            "priority": "Major"
+        },
+        {
+            "key": "HIVE-13439",
+            "priority": "Major"
+        },
+        {
+            "key": "HIVE-13428",
+            "priority": "Blocker"
+        },
+        {
+            "key": "HIVE-13423",
+            "priority": "Major"
+        },
+        {
+            "key": "HIVE-13410",
+            "priority": "Major"
+        },
+        {
+            "key": "HIVE-13405",
+            "priority": "Major"
+        },
+        {
+            "key": "HIVE-13395",
+            "priority": "Blocker"
+        },
+        {
+            "key": "HIVE-13394",
+            "priority": "Major"
+        },
+        {
+            "key": "HIVE-13390",
+            "priority": "Major"
+        },
+        {
+            "key": "HIVE-13383",
+            "priority": "Major"
+        },
+        {
+            "key": "HIVE-13381",
+            "priority": "Major"
+        },
+        {
+            "key": "HIVE-13373",
+            "priority": "Major"
+        },
+        {
+            "key": "HIVE-13361",
+            "priority": "Critical"
+        },
+        {
+            "key": "HIVE-13335",
+            "priority": "Major"
+        },
+        {
+            "key": "HIVE-13333",
+            "priority": "Major"
+        },
+        {
+            "key": "HIVE-13330",
+            "priority": "Critical"
+        },
+        {
+            "key": "HIVE-13326",
+            "priority": "Major"
+        },
+        {
+            "key": "HIVE-13320",
+            "priority": "Major"
+        },
+        {
+            "key": "HIVE-13300",
+            "priority": "Major"
+        },
+        {
+            "key": "HIVE-13299",
+            "priority": "Major"
+        },
+        {
+            "key": "HIVE-13293",
+            "priority": "Major"
+        },
+        {
+            "key": "HIVE-13286",
+            "priority": "Critical"
+        },
+        {
+            "key": "HIVE-13285",
+            "priority": "Critical"
+        },
+        {
+            "key": "HIVE-13261",
+            "priority": "Major"
+        },
+        {
+            "key": "HIVE-13260",
+            "priority": "Major"
+        },
+        {
+            "key": "HIVE-13240",
+            "priority": "Major"
+        },
+        {
+            "key": "HIVE-13236",
+            "priority": "Major"
+        },
+        {
+            "key": "HIVE-13217",
+            "priority": "Minor"
+        },
+        {
+            "key": "HIVE-13216",
+            "priority": "Minor"
+        },
+        {
+            "key": "HIVE-13201",
+            "priority": "Major"
+        },
+        {
+            "key": "HIVE-13200",
+            "priority": "Major"
+        },
+        {
+            "key": "HIVE-13191",
+            "priority": "Major"
+        },
+        {
+            "key": "HIVE-13186",
+            "priority": "Major"
+        },
+        {
+            "key": "HIVE-13175",
+            "priority": "Major"
+        },
+        {
+            "key": "HIVE-13174",
+            "priority": "Major"
+        },
+        {
+            "key": "HIVE-13169",
+            "priority": "Major"
+        },
+        {
+            "key": "HIVE-13163",
+            "priority": "Major"
+        },
+        {
+            "key": "HIVE-13159",
+            "priority": "Major"
+        },
+        {
+            "key": "HIVE-13151",
+            "priority": "Major"
+        },
+        {
+            "key": "HIVE-13144",
+            "priority": "Major"
+        },
+        {
+            "key": "HIVE-13141",
+            "priority": "Minor"
+        },
+        {
+            "key": "HIVE-13134",
+            "priority": "Major"
+        },
+        {
+            "key": "HIVE-13126",
+            "priority": "Major"
+        },
+        {
+            "key": "HIVE-13108",
+            "priority": "Major"
+        },
+        {
+            "key": "HIVE-13105",
+            "priority": "Critical"
+        },
+        {
+            "key": "HIVE-13101",
+            "priority": "Minor"
+        },
+        {
+            "key": "HIVE-13096",
+            "priority": "Major"
+        },
+        {
+            "key": "HIVE-13094",
+            "priority": "Major"
+        },
+        {
+            "key": "HIVE-13083",
+            "priority": "Major"
+        },
+        {
+            "key": "HIVE-13082",
+            "priority": "Major"
+        },
+        {
+            "key": "HIVE-13071",
+            "priority": "Major"
+        },
+        {
+            "key": "HIVE-13065",
+            "priority": "Major"
+        },
+        {
+            "key": "HIVE-13062",
+            "priority": "Major"
+        },
+        {
+            "key": "HIVE-13042",
+            "priority": "Major"
+        },
+        {
+            "key": "HIVE-13039",
+            "priority": "Major"
+        },
+        {
+            "key": "HIVE-13036",
+            "priority": "Major"
+        },
+        {
+            "key": "HIVE-13032",
+            "priority": "Blocker"
+        },
+        {
+            "key": "HIVE-13024",
+            "priority": "Blocker"
+        },
+        {
+            "key": "HIVE-12999",
+            "priority": "Major"
+        },
+        {
+            "key": "HIVE-12996",
+            "priority": "Major"
+        },
+        {
+            "key": "HIVE-12993",
+            "priority": "Major"
+        },
+        {
+            "key": "HIVE-12992",
+            "priority": "Major"
+        },
+        {
+            "key": "HIVE-12981",
+            "priority": "Critical"
+        },
+        {
+            "key": "HIVE-12964",
+            "priority": "Major"
+        },
+        {
+            "key": "HIVE-12947",
+            "priority": "Critical"
+        },
+        {
+            "key": "HIVE-12945",
+            "priority": "Critical"
+        },
+        {
+            "key": "HIVE-12937",
+            "priority": "Major"
+        },
+        {
+            "key": "HIVE-12933",
+            "priority": "Major"
+        },
+        {
+            "key": "HIVE-12931",
+            "priority": "Major"
+        },
+        {
+            "key": "HIVE-12927",
+            "priority": "Critical"
+        },
+        {
+            "key": "HIVE-12926",
+            "priority": "Critical"
+        },
+        {
+            "key": "HIVE-12911",
+            "priority": "Blocker"
+        },
+        {
+            "key": "HIVE-12909",
+            "priority": "Major"
+        },
+        {
+            "key": "HIVE-12905",
+            "priority": "Blocker"
+        },
+        {
+            "key": "HIVE-12904",
+            "priority": "Critical"
+        },
+        {
+            "key": "HIVE-12893",
+            "priority": "Major"
+        },
+        {
+            "key": "HIVE-12879",
+            "priority": "Major"
+        },
+        {
+            "key": "HIVE-12864",
+            "priority": "Major"
+        },
+        {
+            "key": "HIVE-12826",
+            "priority": "Major"
+        },
+        {
+            "key": "HIVE-12824",
+            "priority": "Major"
+        },
+        {
+            "key": "HIVE-12820",
+            "priority": "Major"
+        },
+        {
+            "key": "HIVE-12815",
+            "priority": "Major"
+        },
+        {
+            "key": "HIVE-12809",
+            "priority": "Major"
+        },
+        {
+            "key": "HIVE-12808",
+            "priority": "Major"
+        },
+        {
+            "key": "HIVE-12800",
+            "priority": "Major"
+        },
+        {
+            "key": "HIVE-12797",
+            "priority": "Critical"
+        },
+        {
+            "key": "HIVE-12786",
+            "priority": "Major"
+        },
+        {
+            "key": "HIVE-12784",
+            "priority": "Major"
+        },
+        {
+            "key": "HIVE-12768",
+            "priority": "Blocker"
+        },
+        {
+            "key": "HIVE-12766",
+            "priority": "Major"
+        },
+        {
+            "key": "HIVE-12762",
+            "priority": "Major"
+        },
+        {
+            "key": "HIVE-12758",
+            "priority": "Major"
+        },
+        {
+            "key": "HIVE-12743",
+            "priority": "Major"
+        },
+        {
+            "key": "HIVE-12741",
+            "priority": "Major"
+        },
+        {
+            "key": "HIVE-12740",
+            "priority": "Critical"
+        },
+        {
+            "key": "HIVE-12735",
+            "priority": "Major"
+        },
+        {
+            "key": "HIVE-12734",
+            "priority": "Major"
+        },
+        {
+            "key": "HIVE-12728",
+            "priority": "Critical"
+        },
+        {
+            "key": "HIVE-12726",
+            "priority": "Major"
+        },
+        {
+            "key": "HIVE-12725",
+            "priority": "Major"
+        },
+        {
+            "key": "HIVE-12724",
+            "priority": "Blocker"
+        },
+        {
+            "key": "HIVE-12712",
+            "priority": "Major"
+        },
+        {
+            "key": "HIVE-12708",
+            "priority": "Major"
+        },
+        {
+            "key": "HIVE-12698",
+            "priority": "Major"
+        },
+        {
+            "key": "HIVE-12694",
+            "priority": "Major"
+        },
+        {
+            "key": "HIVE-12688",
+            "priority": "Blocker"
+        },
+        {
+            "key": "HIVE-12687",
+            "priority": "Major"
+        },
+        {
+            "key": "HIVE-12685",
+            "priority": "Major"
+        },
+        {
+            "key": "HIVE-12684",
+            "priority": "Major"
+        },
+        {
+            "key": "HIVE-12662",
+            "priority": "Major"
+        },
+        {
+            "key": "HIVE-12657",
+            "priority": "Major"
+        },
+        {
+            "key": "HIVE-12643",
+            "priority": "Major"
+        },
+        {
+            "key": "HIVE-12633",
+            "priority": "Major"
+        },
+        {
+            "key": "HIVE-12609",
+            "priority": "Major"
+        },
+        {
+            "key": "HIVE-12601",
+            "priority": "Major"
+        },
+        {
+            "key": "HIVE-12599",
+            "priority": "Major"
+        },
+        {
+            "key": "HIVE-12596",
+            "priority": "Major"
+        },
+        {
+            "key": "HIVE-12590",
+            "priority": "Critical"
+        },
+        {
+            "key": "HIVE-12584",
+            "priority": "Critical"
+        },
+        {
+            "key": "HIVE-12578",
+            "priority": "Major"
+        },
+        {
+            "key": "HIVE-12577",
+            "priority": "Critical"
+        },
+        {
+            "key": "HIVE-12542",
+            "priority": "Major"
+        },
+        {
+            "key": "HIVE-12537",
+            "priority": "Critical"
+        },
+        {
+            "key": "HIVE-12532",
+            "priority": "Critical"
+        },
+        {
+            "key": "HIVE-12509",
+            "priority": "Major"
+        },
+        {
+            "key": "HIVE-12503",
+            "priority": "Major"
+        },
+        {
+            "key": "HIVE-12500",
+            "priority": "Major"
+        },
+        {
+            "key": "HIVE-12498",
+            "priority": "Major"
+        },
+        {
+            "key": "HIVE-12491",
+            "priority": "Major"
+        },
+        {
+            "key": "HIVE-12490",
+            "priority": "Major"
+        },
+        {
+            "key": "HIVE-12487",
+            "priority": "Critical"
+        },
+        {
+            "key": "HIVE-12479",
+            "priority": "Critical"
+        },
+        {
+            "key": "HIVE-12478",
+            "priority": "Major"
+        },
+        {
+            "key": "HIVE-12477",
+            "priority": "Major"
+        },
+        {
+            "key": "HIVE-12473",
+            "priority": "Blocker"
+        },
+        {
+            "key": "HIVE-12472",
+            "priority": "Major"
+        },
+        {
+            "key": "HIVE-12465",
+            "priority": "Blocker"
+        },
+        {
+            "key": "HIVE-12463",
+            "priority": "Major"
+        },
+        {
+            "key": "HIVE-12456",
+            "priority": "Major"
+        },
+        {
+            "key": "HIVE-12451",
+            "priority": "Major"
+        },
+        {
+            "key": "HIVE-12450",
+            "priority": "Critical"
+        },
+        {
+            "key": "HIVE-12445",
+            "priority": "Major"
+        },
+        {
+            "key": "HIVE-12435",
+            "priority": "Critical"
+        },
+        {
+            "key": "HIVE-12407",
+            "priority": "Major"
+        },
+        {
+            "key": "HIVE-12405",
+            "priority": "Major"
+        },
+        {
+            "key": "HIVE-12399",
+            "priority": "Critical"
+        },
+        {
+            "key": "HIVE-12396",
+            "priority": "Major"
+        },
+        {
+            "key": "HIVE-12391",
+            "priority": "Major"
+        },
+        {
+            "key": "HIVE-12385",
+            "priority": "Major"
+        },
+        {
+            "key": "HIVE-12378",
+            "priority": "Major"
+        },
+        {
+            "key": "HIVE-12364",
+            "priority": "Critical"
+        },
+        {
+            "key": "HIVE-12363",
+            "priority": "Major"
+        },
+        {
+            "key": "HIVE-12349",
+            "priority": "Major"
+        },
+        {
+            "key": "HIVE-12344",
+            "priority": "Major"
+        },
+        {
+            "key": "HIVE-12332",
+            "priority": "Major"
+        },
+        {
+            "key": "HIVE-12330",
+            "priority": "Major"
+        },
+        {
+            "key": "HIVE-12315",
+            "priority": "Critical"
+        },
+        {
+            "key": "HIVE-12304",
+            "priority": "Major"
+        },
+        {
+            "key": "HIVE-12302",
+            "priority": "Major"
+        },
+        {
+            "key": "HIVE-12281",
+            "priority": "Minor"
+        },
+        {
+            "key": "HIVE-12261",
+            "priority": "Major"
+        },
+        {
+            "key": "HIVE-12260",
+            "priority": "Major"
+        },
+        {
+            "key": "HIVE-12257",
+            "priority": "Major"
+        },
+        {
+            "key": "HIVE-12246",
+            "priority": "Major"
+        },
+        {
+            "key": "HIVE-12238",
+            "priority": "Major"
+        },
+        {
+            "key": "HIVE-12234",
+            "priority": "Minor"
+        },
+        {
+            "key": "HIVE-12223",
+            "priority": "Major"
+        },
+        {
+            "key": "HIVE-12215",
+            "priority": "Major"
+        },
+        {
+            "key": "HIVE-12210",
+            "priority": "Major"
+        },
+        {
+            "key": "HIVE-12208",
+            "priority": "Major"
+        },
+        {
+            "key": "HIVE-12207",
+            "priority": "Major"
+        },
+        {
+            "key": "HIVE-12204",
+            "priority": "Major"
+        },
+        {
+            "key": "HIVE-12198",
+            "priority": "Major"
+        },
+        {
+            "key": "HIVE-12189",
+            "priority": "Major"
+        },
+        {
+            "key": "HIVE-12171",
+            "priority": "Major"
+        },
+        {
+            "key": "HIVE-12166",
+            "priority": "Major"
+        },
+        {
+            "key": "HIVE-12090",
+            "priority": "Major"
+        },
+        {
+            "key": "HIVE-12058",
+            "priority": "Major"
+        },
+        {
+            "key": "HIVE-12039",
+            "priority": "Major"
+        },
+        {
+            "key": "HIVE-12021",
+            "priority": "Major"
+        },
+        {
+            "key": "HIVE-12008",
+            "priority": "Major"
+        },
+        {
+            "key": "HIVE-11980",
+            "priority": "Major"
+        },
+        {
+            "key": "HIVE-11975",
+            "priority": "Minor"
+        },
+        {
+            "key": "HIVE-11966",
+            "priority": "Major"
+        },
+        {
+            "key": "HIVE-11954",
+            "priority": "Major"
+        },
+        {
+            "key": "HIVE-11945",
+            "priority": "Major"
+        },
+        {
+            "key": "HIVE-11932",
+            "priority": "Major"
+        },
+        {
+            "key": "HIVE-11928",
+            "priority": "Major"
+        },
+        {
+            "key": "HIVE-11922",
+            "priority": "Trivial"
+        },
+        {
+            "key": "HIVE-11889",
+            "priority": "Major"
+        },
+        {
+            "key": "HIVE-11875",
+            "priority": "Major"
+        },
+        {
+            "key": "HIVE-11863",
+            "priority": "Major"
+        },
+        {
+            "key": "HIVE-11860",
+            "priority": "Major"
+        },
+        {
+            "key": "HIVE-11843",
+            "priority": "Major"
+        },
+        {
+            "key": "HIVE-11842",
+            "priority": "Major"
+        },
+        {
+            "key": "HIVE-11841",
+            "priority": "Major"
+        },
+        {
+            "key": "HIVE-11838",
+            "priority": "Major"
+        },
+        {
+            "key": "HIVE-11835",
+            "priority": "Major"
+        },
+        {
+            "key": "HIVE-11832",
+            "priority": "Major"
+        },
+        {
+            "key": "HIVE-11826",
+            "priority": "Major"
+        },
+        {
+            "key": "HIVE-11824",
+            "priority": "Major"
+        },
+        {
+            "key": "HIVE-11821",
+            "priority": "Major"
+        },
+        {
+            "key": "HIVE-11820",
+            "priority": "Major"
+        },
+        {
+            "key": "HIVE-11813",
+            "priority": "Major"
+        },
+        {
+            "key": "HIVE-11792",
+            "priority": "Major"
+        },
+        {
+            "key": "HIVE-11781",
+            "priority": "Major"
+        },
+        {
+            "key": "HIVE-11761",
+            "priority": "Major"
+        },
+        {
+            "key": "HIVE-11751",
+            "priority": "Major"
+        },
+        {
+            "key": "HIVE-11745",
+            "priority": "Major"
+        },
+        {
+            "key": "HIVE-11726",
+            "priority": "Major"
+        },
+        {
+            "key": "HIVE-11723",
+            "priority": "Major"
+        },
+        {
+            "key": "HIVE-11721",
+            "priority": "Major"
+        },
+        {
+            "key": "HIVE-11710",
+            "priority": "Major"
+        },
+        {
+            "key": "HIVE-11705",
+            "priority": "Major"
+        },
+        {
+            "key": "HIVE-11698",
+            "priority": "Major"
+        },
+        {
+            "key": "HIVE-11696",
+            "priority": "Major"
+        },
+        {
+            "key": "HIVE-11669",
+            "priority": "Major"
+        },
+        {
+            "key": "HIVE-11658",
+            "priority": "Major"
+        },
+        {
+            "key": "HIVE-11652",
+            "priority": "Major"
+        },
+        {
+            "key": "HIVE-11604",
+            "priority": "Major"
+        },
+        {
+            "key": "HIVE-11602",
+            "priority": "Major"
+        },
+        {
+            "key": "HIVE-11596",
+            "priority": "Minor"
+        },
+        {
+            "key": "HIVE-11594",
+            "priority": "Major"
+        },
+        {
+            "key": "HIVE-11592",
+            "priority": "Major"
+        },
+        {
+            "key": "HIVE-11590",
+            "priority": "Major"
+        },
+        {
+            "key": "HIVE-11581",
+            "priority": "Major"
+        },
+        {
+            "key": "HIVE-11578",
+            "priority": "Major"
+        },
+        {
+            "key": "HIVE-11573",
+            "priority": "Major"
+        },
+        {
+            "key": "HIVE-11556",
+            "priority": "Major"
+        },
+        {
+            "key": "HIVE-11546",
+            "priority": "Major"
+        },
+        {
+            "key": "HIVE-11541",
+            "priority": "Major"
+        },
+        {
+            "key": "HIVE-11511",
+            "priority": "Major"
+        },
+        {
+            "key": "HIVE-11498",
+            "priority": "Major"
+        },
+        {
+            "key": "HIVE-11497",
+            "priority": "Major"
+        },
+        {
+            "key": "HIVE-11493",
+            "priority": "Blocker"
+        },
+        {
+            "key": "HIVE-11476",
+            "priority": "Minor"
+        },
+        {
+            "key": "HIVE-11472",
+            "priority": "Minor"
+        },
+        {
+            "key": "HIVE-11468",
+            "priority": "Critical"
+        },
+        {
+            "key": "HIVE-11462",
+            "priority": "Major"
+        },
+        {
+            "key": "HIVE-11452",
+            "priority": "Critical"
+        },
+        {
+            "key": "HIVE-11451",
+            "priority": "Critical"
+        },
+        {
+            "key": "HIVE-11434",
+            "priority": "Major"
+        },
+        {
+            "key": "HIVE-11433",
+            "priority": "Major"
+        },
+        {
+            "key": "HIVE-11430",
+            "priority": "Major"
+        },
+        {
+            "key": "HIVE-11428",
+            "priority": "Major"
+        },
+        {
+            "key": "HIVE-11425",
+            "priority": "Major"
+        },
+        {
+            "key": "HIVE-11413",
+            "priority": "Trivial"
+        },
+        {
+            "key": "HIVE-11406",
+            "priority": "Major"
+        },
+        {
+            "key": "HIVE-11397",
+            "priority": "Major"
+        },
+        {
+            "key": "HIVE-11375",
+            "priority": "Major"
+        },
+        {
+            "key": "HIVE-11312",
+            "priority": "Blocker"
+        },
+        {
+            "key": "HIVE-11303",
+            "priority": "Major"
+        },
+        {
+            "key": "HIVE-11293",
+            "priority": "Minor"
+        },
+        {
+            "key": "HIVE-11284",
+            "priority": "Major"
+        },
+        {
+            "key": "HIVE-11258",
+            "priority": "Major"
+        },
+        {
+            "key": "HIVE-11255",
+            "priority": "Major"
+        },
+        {
+            "key": "HIVE-11230",
+            "priority": "Minor"
+        },
+        {
+            "key": "HIVE-11229",
+            "priority": "Major"
+        },
+        {
+            "key": "HIVE-11228",
+            "priority": "Major"
+        },
+        {
+            "key": "HIVE-11221",
+            "priority": "Major"
+        },
+        {
+            "key": "HIVE-11215",
+            "priority": "Minor"
+        },
+        {
+            "key": "HIVE-11202",
+            "priority": "Major"
+        },
+        {
+            "key": "HIVE-11198",
+            "priority": "Major"
+        },
+        {
+            "key": "HIVE-11194",
+            "priority": "Major"
+        },
+        {
+            "key": "HIVE-11157",
+            "priority": "Major"
+        },
+        {
+            "key": "HIVE-11135",
+            "priority": "Major"
+        },
+        {
+            "key": "HIVE-11122",
+            "priority": "Major"
+        },
+        {
+            "key": "HIVE-11120",
+            "priority": "Major"
+        },
+        {
+            "key": "HIVE-11118",
+            "priority": "Major"
+        },
+        {
+            "key": "HIVE-11102",
+            "priority": "Major"
+        },
+        {
+            "key": "HIVE-11051",
+            "priority": "Critical"
+        },
+        {
+            "key": "HIVE-11043",
+            "priority": "Major"
+        },
+        {
+            "key": "HIVE-11035",
+            "priority": "Major"
+        },
+        {
+            "key": "HIVE-11031",
+            "priority": "Critical"
+        },
+        {
+            "key": "HIVE-11023",
+            "priority": "Critical"
+        },
+        {
+            "key": "HIVE-10996",
+            "priority": "Critical"
+        },
+        {
+            "key": "HIVE-10974",
+            "priority": "Major"
+        },
+        {
+            "key": "HIVE-10972",
+            "priority": "Major"
+        },
+        {
+            "key": "HIVE-10707",
+            "priority": "Trivial"
+        },
+        {
+            "key": "HIVE-10651",
+            "priority": "Minor"
+        },
+        {
+            "key": "HIVE-10233",
+            "priority": "Major"
+        },
+        {
+            "key": "HIVE-10021",
+            "priority": "Major"
+        },
+        {
+            "key": "HIVE-9499",
+            "priority": "Major"
+        },
+        {
+            "key": "HIVE-4243",
+            "priority": "Major"
+        }
+    ],
+    "2.2.0": [
+        {
+            "key": "HIVE-22247",
+            "priority": "Major"
+        },
+        {
+            "key": "HIVE-21009",
+            "priority": "Major"
+        },
+        {
+            "key": "HIVE-20303",
+            "priority": "Major"
+        },
+        {
+            "key": "HIVE-19948",
+            "priority": "Major"
+        },
+        {
+            "key": "HIVE-19388",
+            "priority": "Major"
+        },
+        {
+            "key": "HIVE-19247",
+            "priority": "Major"
+        },
+        {
+            "key": "HIVE-18421",
+            "priority": "Major"
+        },
+        {
+            "key": "HIVE-18250",
+            "priority": "Major"
+        },
+        {
+            "key": "HIVE-18017",
+            "priority": "Major"
+        },
+        {
+            "key": "HIVE-17803",
+            "priority": "Major"
+        },
+        {
+            "key": "HIVE-17791",
+            "priority": "Major"
+        },
+        {
+            "key": "HIVE-17770",
+            "priority": "Minor"
+        },
+        {
+            "key": "HIVE-17664",
+            "priority": "Major"
+        },
+        {
+            "key": "HIVE-17659",
+            "priority": "Major"
+        },
+        {
+            "key": "HIVE-17621",
+            "priority": "Major"
+        },
+        {
+            "key": "HIVE-17620",
+            "priority": "Major"
+        },
+        {
+            "key": "HIVE-17576",
+            "priority": "Major"
+        },
+        {
+            "key": "HIVE-17574",
+            "priority": "Major"
+        },
+        {
+            "key": "HIVE-17472",
+            "priority": "Major"
+        },
+        {
+            "key": "HIVE-17429",
+            "priority": "Major"
+        },
+        {
+            "key": "HIVE-17391",
+            "priority": "Major"
+        },
+        {
+            "key": "HIVE-17368",
+            "priority": "Major"
+        },
+        {
+            "key": "HIVE-17352",
+            "priority": "Major"
+        },
+        {
+            "key": "HIVE-17309",
+            "priority": "Major"
+        },
+        {
+            "key": "HIVE-17275",
+            "priority": "Major"
+        },
+        {
+            "key": "HIVE-17240",
+            "priority": "Major"
+        },
+        {
+            "key": "HIVE-17233",
+            "priority": "Major"
+        },
+        {
+            "key": "HIVE-17218",
+            "priority": "Major"
+        },
+        {
+            "key": "HIVE-17188",
+            "priority": "Major"
+        },
+        {
+            "key": "HIVE-17181",
+            "priority": "Major"
+        },
+        {
+            "key": "HIVE-17085",
+            "priority": "Major"
+        },
+        {
+            "key": "HIVE-17063",
+            "priority": "Major"
+        },
+        {
+            "key": "HIVE-16958",
+            "priority": "Major"
+        },
+        {
+            "key": "HIVE-16832",
+            "priority": "Critical"
+        },
+        {
+            "key": "HIVE-16828",
+            "priority": "Major"
+        },
+        {
+            "key": "HIVE-16683",
+            "priority": "Major"
+        },
+        {
+            "key": "HIVE-16577",
+            "priority": "Blocker"
+        },
+        {
+            "key": "HIVE-16507",
+            "priority": "Major"
+        },
+        {
+            "key": "HIVE-16480",
+            "priority": "Major"
+        },
+        {
+            "key": "HIVE-16465",
+            "priority": "Critical"
+        },
+        {
+            "key": "HIVE-16404",
+            "priority": "Major"
+        },
+        {
+            "key": "HIVE-16347",
+            "priority": "Minor"
+        },
+        {
+            "key": "HIVE-16335",
+            "priority": "Major"
+        },
+        {
+            "key": "HIVE-16333",
+            "priority": "Minor"
+        },
+        {
+            "key": "HIVE-16329",
+            "priority": "Major"
+        },
+        {
+            "key": "HIVE-16299",
+            "priority": "Minor"
+        },
+        {
+            "key": "HIVE-16282",
+            "priority": "Major"
+        },
+        {
+            "key": "HIVE-16254",
+            "priority": "Major"
+        },
+        {
+            "key": "HIVE-16219",
+            "priority": "Major"
+        },
+        {
+            "key": "HIVE-16208",
+            "priority": "Minor"
+        },
+        {
+            "key": "HIVE-16193",
+            "priority": "Major"
+        },
+        {
+            "key": "HIVE-16190",
+            "priority": "Major"
+        },
+        {
+            "key": "HIVE-16187",
+            "priority": "Major"
+        },
+        {
+            "key": "HIVE-16180",
+            "priority": "Critical"
+        },
+        {
+            "key": "HIVE-16174",
+            "priority": "Minor"
+        },
+        {
+            "key": "HIVE-16150",
+            "priority": "Major"
+        },
+        {
+            "key": "HIVE-16117",
+            "priority": "Major"
+        },
+        {
+            "key": "HIVE-16113",
+            "priority": "Major"
+        },
+        {
+            "key": "HIVE-16109",
+            "priority": "Major"
+        },
+        {
+            "key": "HIVE-16103",
+            "priority": "Major"
+        },
+        {
+            "key": "HIVE-16102",
+            "priority": "Critical"
+        },
+        {
+            "key": "HIVE-16101",
+            "priority": "Minor"
+        },
+        {
+            "key": "HIVE-16100",
+            "priority": "Major"
+        },
+        {
+            "key": "HIVE-16094",
+            "priority": "Critical"
+        },
+        {
+            "key": "HIVE-16087",
+            "priority": "Trivial"
+        },
+        {
+            "key": "HIVE-16072",
+            "priority": "Major"
+        },
+        {
+            "key": "HIVE-16070",
+            "priority": "Major"
+        },
+        {
+            "key": "HIVE-16057",
+            "priority": "Major"
+        },
+        {
+            "key": "HIVE-16054",
+            "priority": "Major"
+        },
+        {
+            "key": "HIVE-16050",
+            "priority": "Major"
+        },
+        {
+            "key": "HIVE-16043",
+            "priority": "Major"
+        },
+        {
+            "key": "HIVE-16034",
+            "priority": "Major"
+        },
+        {
+            "key": "HIVE-16033",
+            "priority": "Major"
+        },
+        {
+            "key": "HIVE-16028",
+            "priority": "Major"
+        },
+        {
+            "key": "HIVE-16024",
+            "priority": "Major"
+        },
+        {
+            "key": "HIVE-16023",
+            "priority": "Major"
+        },
+        {
+            "key": "HIVE-16013",
+            "priority": "Major"
+        },
+        {
+            "key": "HIVE-16007",
+            "priority": "Major"
+        },
+        {
+            "key": "HIVE-15999",
+            "priority": "Major"
+        },
+        {
+            "key": "HIVE-15994",
+            "priority": "Major"
+        },
+        {
+            "key": "HIVE-15992",
+            "priority": "Minor"
+        },
+        {
+            "key": "HIVE-15990",
+            "priority": "Critical"
+        },
+        {
+            "key": "HIVE-15971",
+            "priority": "Major"
+        },
+        {
+            "key": "HIVE-15958",
+            "priority": "Major"
+        },
+        {
+            "key": "HIVE-15956",
+            "priority": "Major"
+        },
+        {
+            "key": "HIVE-15951",
+            "priority": "Critical"
+        },
+        {
+            "key": "HIVE-15934",
+            "priority": "Major"
+        },
+        {
+            "key": "HIVE-15914",
+            "priority": "Major"
+        },
+        {
+            "key": "HIVE-15906",
+            "priority": "Critical"
+        },
+        {
+            "key": "HIVE-15900",
+            "priority": "Major"
+        },
+        {
+            "key": "HIVE-15891",
+            "priority": "Major"
+        },
+        {
+            "key": "HIVE-15886",
+            "priority": "Major"
+        },
+        {
+            "key": "HIVE-15877",
+            "priority": "Major"
+        },
+        {
+            "key": "HIVE-15855",
+            "priority": "Major"
+        },
+        {
+            "key": "HIVE-15850",
+            "priority": "Critical"
+        },
+        {
+            "key": "HIVE-15849",
+            "priority": "Major"
+        },
+        {
+            "key": "HIVE-15847",
+            "priority": "Major"
+        },
+        {
+            "key": "HIVE-15827",
+            "priority": "Critical"
+        },
+        {
+            "key": "HIVE-15809",
+            "priority": "Trivial"
+        },
+        {
+            "key": "HIVE-15806",
+            "priority": "Major"
+        },
+        {
+            "key": "HIVE-15804",
+            "priority": "Major"
+        },
+        {
+            "key": "HIVE-15782",
+            "priority": "Major"
+        },
+        {
+            "key": "HIVE-15760",
+            "priority": "Critical"
+        },
+        {
+            "key": "HIVE-15754",
+            "priority": "Critical"
+        },
+        {
+            "key": "HIVE-15750",
+            "priority": "Major"
+        },
+        {
+            "key": "HIVE-15739",
+            "priority": "Minor"
+        },
+        {
+            "key": "HIVE-15686",
+            "priority": "Major"
+        },
+        {
+            "key": "HIVE-15685",
+            "priority": "Major"
+        },
+        {
+            "key": "HIVE-15680",
+            "priority": "Major"
+        },
+        {
+            "key": "HIVE-15679",
+            "priority": "Trivial"
+        },
+        {
+            "key": "HIVE-15669",
+            "priority": "Major"
+        },
+        {
+            "key": "HIVE-15655",
+            "priority": "Major"
+        },
+        {
+            "key": "HIVE-15651",
+            "priority": "Major"
+        },
+        {
+            "key": "HIVE-15650",
+            "priority": "Major"
+        },
+        {
+            "key": "HIVE-15644",
+            "priority": "Major"
+        },
+        {
+            "key": "HIVE-15639",
+            "priority": "Critical"
+        },
+        {
+            "key": "HIVE-15637",
+            "priority": "Critical"
+        },
+        {
+            "key": "HIVE-15636",
+            "priority": "Critical"
+        },
+        {
+            "key": "HIVE-15635",
+            "priority": "Critical"
+        },
+        {
+            "key": "HIVE-15633",
+            "priority": "Major"
+        },
+        {
+            "key": "HIVE-15632",
+            "priority": "Critical"
+        },
+        {
+            "key": "HIVE-15630",
+            "priority": "Minor"
+        },
+        {
+            "key": "HIVE-15589",
+            "priority": "Major"
+        },
+        {
+            "key": "HIVE-15583",
+            "priority": "Minor"
+        },
+        {
+            "key": "HIVE-15576",
+            "priority": "Major"
+        },
+        {
+            "key": "HIVE-15563",
+            "priority": "Minor"
+        },
+        {
+            "key": "HIVE-15503",
+            "priority": "Critical"
+        },
+        {
+            "key": "HIVE-15494",
+            "priority": "Minor"
+        },
+        {
+            "key": "HIVE-15493",
+            "priority": "Critical"
+        },
+        {
+            "key": "HIVE-15487",
+            "priority": "Major"
+        },
+        {
+            "key": "HIVE-15484",
+            "priority": "Major"
+        },
+        {
+            "key": "HIVE-15483",
+            "priority": "Minor"
+        },
+        {
+            "key": "HIVE-15482",
+            "priority": "Critical"
+        },
+        {
+            "key": "HIVE-15476",
+            "priority": "Minor"
+        },
+        {
+            "key": "HIVE-15474",
+            "priority": "Major"
+        },
+        {
+            "key": "HIVE-15472",
+            "priority": "Major"
+        },
+        {
+            "key": "HIVE-15459",
+            "priority": "Major"
+        },
+        {
+            "key": "HIVE-15445",
+            "priority": "Major"
+        },
+        {
+            "key": "HIVE-15438",
+            "priority": "Major"
+        },
+        {
+            "key": "HIVE-15421",
+            "priority": "Major"
+        },
+        {
+            "key": "HIVE-15417",
+            "priority": "Major"
+        },
+        {
+            "key": "HIVE-15407",
+            "priority": "Major"
+        },
+        {
+            "key": "HIVE-15403",
+            "priority": "Critical"
+        },
+        {
+            "key": "HIVE-15378",
+            "priority": "Major"
+        },
+        {
+            "key": "HIVE-15376",
+            "priority": "Major"
+        },
+        {
+            "key": "HIVE-15369",
+            "priority": "Major"
+        },
+        {
+            "key": "HIVE-15362",
+            "priority": "Major"
+        },
+        {
+            "key": "HIVE-15361",
+            "priority": "Critical"
+        },
+        {
+            "key": "HIVE-15355",
+            "priority": "Major"
+        },
+        {
+            "key": "HIVE-15353",
+            "priority": "Major"
+        },
+        {
+            "key": "HIVE-15347",
+            "priority": "Critical"
+        },
+        {
+            "key": "HIVE-15327",
+            "priority": "Critical"
+        },
+        {
+            "key": "HIVE-15306",
+            "priority": "Major"
+        },
+        {
+            "key": "HIVE-15295",
+            "priority": "Minor"
+        },
+        {
+            "key": "HIVE-15283",
+            "priority": "Trivial"
+        },
+        {
+            "key": "HIVE-15282",
+            "priority": "Major"
+        },
+        {
+            "key": "HIVE-15275",
+            "priority": "Major"
+        },
+        {
+            "key": "HIVE-15273",
+            "priority": "Minor"
+        },
+        {
+            "key": "HIVE-15266",
+            "priority": "Major"
+        },
+        {
+            "key": "HIVE-15257",
+            "priority": "Major"
+        },
+        {
+            "key": "HIVE-15251",
+            "priority": "Major"
+        },
+        {
+            "key": "HIVE-15233",
+            "priority": "Major"
+        },
+        {
+            "key": "HIVE-15211",
+            "priority": "Major"
+        },
+        {
+            "key": "HIVE-15196",
+            "priority": "Major"
+        },
+        {
+            "key": "HIVE-15190",
+            "priority": "Critical"
+        },
+        {
+            "key": "HIVE-15160",
+            "priority": "Major"
+        },
+        {
+            "key": "HIVE-15143",
+            "priority": "Critical"
+        },
+        {
+            "key": "HIVE-15137",
+            "priority": "Major"
+        },
+        {
+            "key": "HIVE-15123",
+            "priority": "Major"
+        },
+        {
+            "key": "HIVE-15099",
+            "priority": "Major"
+        },
+        {
+            "key": "HIVE-15091",
+            "priority": "Trivial"
+        },
+        {
+            "key": "HIVE-15090",
+            "priority": "Major"
+        },
+        {
+            "key": "HIVE-15065",
+            "priority": "Major"
+        },
+        {
+            "key": "HIVE-15046",
+            "priority": "Major"
+        },
+        {
+            "key": "HIVE-15036",
+            "priority": "Blocker"
+        },
+        {
+            "key": "HIVE-14991",
+            "priority": "Major"
+        },
+        {
+            "key": "HIVE-14924",
+            "priority": "Major"
+        },
+        {
+            "key": "HIVE-14843",
+            "priority": "Major"
+        },
+        {
+            "key": "HIVE-14837",
+            "priority": "Major"
+        },
+        {
+            "key": "HIVE-14831",
+            "priority": "Major"
+        },
+        {
+            "key": "HIVE-14814",
+            "priority": "Major"
+        },
+        {
+            "key": "HIVE-14783",
+            "priority": "Major"
+        },
+        {
+            "key": "HIVE-14766",
+            "priority": "Major"
+        },
+        {
+            "key": "HIVE-14751",
+            "priority": "Major"
+        },
+        {
+            "key": "HIVE-14739",
+            "priority": "Major"
+        },
+        {
+            "key": "HIVE-14727",
+            "priority": "Major"
+        },
+        {
+            "key": "HIVE-14707",
+            "priority": "Major"
+        },
+        {
+            "key": "HIVE-14694",
+            "priority": "Minor"
+        },
+        {
+            "key": "HIVE-14678",
+            "priority": "Trivial"
+        },
+        {
+            "key": "HIVE-14658",
+            "priority": "Minor"
+        },
+        {
+            "key": "HIVE-14652",
+            "priority": "Blocker"
+        },
+        {
+            "key": "HIVE-14648",
+            "priority": "Blocker"
+        },
+        {
+            "key": "HIVE-14647",
+            "priority": "Major"
+        },
+        {
+            "key": "HIVE-14624",
+            "priority": "Major"
+        },
+        {
+            "key": "HIVE-14607",
+            "priority": "Critical"
+        },
+        {
+            "key": "HIVE-14570",
+            "priority": "Major"
+        },
+        {
+            "key": "HIVE-14566",
+            "priority": "Critical"
+        },
+        {
+            "key": "HIVE-14556",
+            "priority": "Major"
+        },
+        {
+            "key": "HIVE-14516",
+            "priority": "Major"
+        },
+        {
+            "key": "HIVE-14479",
+            "priority": "Major"
+        },
+        {
+            "key": "HIVE-14448",
+            "priority": "Critical"
+        },
+        {
+            "key": "HIVE-14447",
+            "priority": "Major"
+        },
+        {
+            "key": "HIVE-14446",
+            "priority": "Major"
+        },
+        {
+            "key": "HIVE-14435",
+            "priority": "Major"
+        },
+        {
+            "key": "HIVE-14433",
+            "priority": "Major"
+        },
+        {
+            "key": "HIVE-14420",
+            "priority": "Major"
+        },
+        {
+            "key": "HIVE-14414",
+            "priority": "Major"
+        },
+        {
+            "key": "HIVE-14402",
+            "priority": "Major"
+        },
+        {
+            "key": "HIVE-14400",
+            "priority": "Major"
+        },
+        {
+            "key": "HIVE-14397",
+            "priority": "Critical"
+        },
+        {
+            "key": "HIVE-14384",
+            "priority": "Major"
+        },
+        {
+            "key": "HIVE-14381",
+            "priority": "Major"
+        },
+        {
+            "key": "HIVE-14363",
+            "priority": "Major"
+        },
+        {
+            "key": "HIVE-14360",
+            "priority": "Minor"
+        },
+        {
+            "key": "HIVE-14355",
+            "priority": "Critical"
+        },
+        {
+            "key": "HIVE-14349",
+            "priority": "Major"
+        },
+        {
+            "key": "HIVE-14346",
+            "priority": "Major"
+        },
+        {
+            "key": "HIVE-14345",
+            "priority": "Minor"
+        },
+        {
+            "key": "HIVE-14343",
+            "priority": "Major"
+        },
+        {
+            "key": "HIVE-14339",
+            "priority": "Major"
+        },
+        {
+            "key": "HIVE-14333",
+            "priority": "Critical"
+        },
+        {
+            "key": "HIVE-14326",
+            "priority": "Critical"
+        },
+        {
+            "key": "HIVE-14324",
+            "priority": "Critical"
+        },
+        {
+            "key": "HIVE-14313",
+            "priority": "Major"
+        },
+        {
+            "key": "HIVE-14311",
+            "priority": "Major"
+        },
+        {
+            "key": "HIVE-14310",
+            "priority": "Critical"
+        },
+        {
+            "key": "HIVE-14278",
+            "priority": "Minor"
+        },
+        {
+            "key": "HIVE-14268",
+            "priority": "Major"
+        },
+        {
+            "key": "HIVE-14253",
+            "priority": "Major"
+        },
+        {
+            "key": "HIVE-14223",
+            "priority": "Major"
+        },
+        {
+            "key": "HIVE-14222",
+            "priority": "Major"
+        },
+        {
+            "key": "HIVE-14215",
+            "priority": "Minor"
+        },
+        {
+            "key": "HIVE-14197",
+            "priority": "Major"
+        },
+        {
+            "key": "HIVE-14195",
+            "priority": "Minor"
+        },
+        {
+            "key": "HIVE-14184",
+            "priority": "Major"
+        },
+        {
+            "key": "HIVE-14178",
+            "priority": "Major"
+        },
+        {
+            "key": "HIVE-14176",
+            "priority": "Major"
+        },
+        {
+            "key": "HIVE-14155",
+            "priority": "Major"
+        },
+        {
+            "key": "HIVE-14147",
+            "priority": "Critical"
+        },
+        {
+            "key": "HIVE-14146",
+            "priority": "Major"
+        },
+        {
+            "key": "HIVE-14142",
+            "priority": "Major"
+        },
+        {
+            "key": "HIVE-14135",
+            "priority": "Major"
+        },
+        {
+            "key": "HIVE-14122",
+            "priority": "Critical"
+        },
+        {
+            "key": "HIVE-14109",
+            "priority": "Major"
+        },
+        {
+            "key": "HIVE-14092",
+            "priority": "Major"
+        },
+        {
+            "key": "HIVE-14089",
+            "priority": "Major"
+        },
+        {
+            "key": "HIVE-14083",
+            "priority": "Minor"
+        },
+        {
+            "key": "HIVE-14079",
+            "priority": "Major"
+        },
+        {
+            "key": "HIVE-14076",
+            "priority": "Major"
+        },
+        {
+            "key": "HIVE-14060",
+            "priority": "Major"
+        },
+        {
+            "key": "HIVE-14059",
+            "priority": "Minor"
+        },
+        {
+            "key": "HIVE-14054",
+            "priority": "Major"
+        },
+        {
+            "key": "HIVE-14027",
+            "priority": "Major"
+        },
+        {
+            "key": "HIVE-14022",
+            "priority": "Major"
+        },
+        {
+            "key": "HIVE-14013",
+            "priority": "Major"
+        },
+        {
+            "key": "HIVE-14010",
+            "priority": "Major"
+        },
+        {
+            "key": "HIVE-14007",
+            "priority": "Major"
+        },
+        {
+            "key": "HIVE-13985",
+            "priority": "Major"
+        },
+        {
+            "key": "HIVE-13972",
+            "priority": "Blocker"
+        },
+        {
+            "key": "HIVE-13961",
+            "priority": "Blocker"
+        },
+        {
+            "key": "HIVE-13954",
+            "priority": "Major"
+        },
+        {
+            "key": "HIVE-13927",
+            "priority": "Major"
+        },
+        {
+            "key": "HIVE-13924",
+            "priority": "Critical"
+        },
+        {
+            "key": "HIVE-13904",
+            "priority": "Major"
+        },
+        {
+            "key": "HIVE-13900",
+            "priority": "Major"
+        },
+        {
+            "key": "HIVE-13856",
+            "priority": "Blocker"
+        },
+        {
+            "key": "HIVE-13849",
+            "priority": "Critical"
+        },
+        {
+            "key": "HIVE-13744",
+            "priority": "Major"
+        },
+        {
+            "key": "HIVE-13540",
+            "priority": "Major"
+        },
+        {
+            "key": "HIVE-13000",
+            "priority": "Minor"
+        },
+        {
+            "key": "HIVE-12734",
+            "priority": "Major"
+        }
+    ],
+    "2.1.0": [
+        {
+            "key": "HIVE-22207",
+            "priority": "Major"
+        },
+        {
+            "key": "HIVE-22165",
+            "priority": "Major"
+        },
+        {
+            "key": "HIVE-22054",
+            "priority": "Major"
+        },
+        {
+            "key": "HIVE-21009",
+            "priority": "Major"
+        },
+        {
+            "key": "HIVE-20080",
+            "priority": "Major"
+        },
+        {
+            "key": "HIVE-19860",
+            "priority": "Major"
+        },
+        {
+            "key": "HIVE-19250",
+            "priority": "Minor"
+        },
+        {
+            "key": "HIVE-19231",
+            "priority": "Major"
+        },
+        {
+            "key": "HIVE-19230",
+            "priority": "Minor"
+        },
+        {
+            "key": "HIVE-18459",
+            "priority": "Major"
+        },
+        {
+            "key": "HIVE-18250",
+            "priority": "Major"
+        },
+        {
+            "key": "HIVE-17829",
+            "priority": "Critical"
+        },
+        {
+            "key": "HIVE-17664",
+            "priority": "Major"
+        },
+        {
+            "key": "HIVE-17659",
+            "priority": "Major"
+        },
+        {
+            "key": "HIVE-17429",
+            "priority": "Major"
+        },
+        {
+            "key": "HIVE-17368",
+            "priority": "Major"
+        },
+        {
+            "key": "HIVE-16421",
+            "priority": "Major"
+        },
+        {
+            "key": "HIVE-16385",
+            "priority": "Major"
+        },
+        {
+            "key": "HIVE-16287",
+            "priority": "Minor"
+        },
+        {
+            "key": "HIVE-16274",
+            "priority": "Major"
+        },
+        {
+            "key": "HIVE-16163",
+            "priority": "Major"
+        },
+        {
+            "key": "HIVE-15995",
+            "priority": "Major"
+        },
+        {
+            "key": "HIVE-15903",
+            "priority": "Major"
+        },
+        {
+            "key": "HIVE-15902",
+            "priority": "Major"
+        },
+        {
+            "key": "HIVE-15862",
+            "priority": "Major"
+        },
+        {
+            "key": "HIVE-15769",
+            "priority": "Major"
+        },
+        {
+            "key": "HIVE-15752",
+            "priority": "Major"
+        },
+        {
+            "key": "HIVE-15646",
+            "priority": "Major"
+        },
+        {
+            "key": "HIVE-15552",
+            "priority": "Critical"
+        },
+        {
+            "key": "HIVE-15517",
+            "priority": "Major"
+        },
+        {
+            "key": "HIVE-15355",
+            "priority": "Major"
+        },
+        {
+            "key": "HIVE-15329",
+            "priority": "Major"
+        },
+        {
+            "key": "HIVE-15311",
+            "priority": "Major"
+        },
+        {
+            "key": "HIVE-15308",
+            "priority": "Major"
+        },
+        {
+            "key": "HIVE-15297",
+            "priority": "Major"
+        },
+        {
+            "key": "HIVE-15295",
+            "priority": "Minor"
+        },
+        {
+            "key": "HIVE-15291",
+            "priority": "Major"
+        },
+        {
+            "key": "HIVE-15267",
+            "priority": "Major"
+        },
+        {
+            "key": "HIVE-15257",
+            "priority": "Major"
+        },
+        {
+            "key": "HIVE-15247",
+            "priority": "Major"
+        },
+        {
+            "key": "HIVE-15239",
+            "priority": "Major"
+        },
+        {
+            "key": "HIVE-15237",
+            "priority": "Major"
+        },
+        {
+            "key": "HIVE-15234",
+            "priority": "Major"
+        },
+        {
+            "key": "HIVE-15190",
+            "priority": "Critical"
+        },
+        {
+            "key": "HIVE-15181",
+            "priority": "Critical"
+        },
+        {
+            "key": "HIVE-15160",
+            "priority": "Major"
+        },
+        {
+            "key": "HIVE-15155",
+            "priority": "Minor"
+        },
+        {
+            "key": "HIVE-15123",
+            "priority": "Major"
+        },
+        {
+            "key": "HIVE-15099",
+            "priority": "Major"
+        },
+        {
+            "key": "HIVE-15096",
+            "priority": "Major"
+        },
+        {
+            "key": "HIVE-15090",
+            "priority": "Major"
+        },
+        {
+            "key": "HIVE-15070",
+            "priority": "Major"
+        },
+        {
+            "key": "HIVE-15050",
+            "priority": "Major"
+        },
+        {
+            "key": "HIVE-15035",
+            "priority": "Blocker"
+        },
+        {
+            "key": "HIVE-15030",
+            "priority": "Major"
+        },
+        {
+            "key": "HIVE-15029",
+            "priority": "Major"
+        },
+        {
+            "key": "HIVE-14982",
+            "priority": "Major"
+        },
+        {
+            "key": "HIVE-14966",
+            "priority": "Major"
+        },
+        {
+            "key": "HIVE-14960",
+            "priority": "Minor"
+        },
+        {
+            "key": "HIVE-14959",
+            "priority": "Major"
+        },
+        {
+            "key": "HIVE-14924",
+            "priority": "Major"
+        },
+        {
+            "key": "HIVE-14873",
+            "priority": "Major"
+        },
+        {
+            "key": "HIVE-14839",
+            "priority": "Minor"
+        },
+        {
+            "key": "HIVE-14819",
+            "priority": "Major"
+        },
+        {
+            "key": "HIVE-14814",
+            "priority": "Major"
+        },
+        {
+            "key": "HIVE-14798",
+            "priority": "Major"
+        },
+        {
+            "key": "HIVE-14792",
+            "priority": "Major"
+        },
+        {
+            "key": "HIVE-14779",
+            "priority": "Minor"
+        },
+        {
+            "key": "HIVE-14773",
+            "priority": "Major"
+        },
+        {
+            "key": "HIVE-14726",
+            "priority": "Major"
+        },
+        {
+            "key": "HIVE-14706",
+            "priority": "Critical"
+        },
+        {
+            "key": "HIVE-14697",
+            "priority": "Major"
+        },
+        {
+            "key": "HIVE-14690",
+            "priority": "Major"
+        },
+        {
+            "key": "HIVE-14686",
+            "priority": "Major"
+        },
+        {
+            "key": "HIVE-14678",
+            "priority": "Trivial"
+        },
+        {
+            "key": "HIVE-14674",
+            "priority": "Critical"
+        },
+        {
+            "key": "HIVE-14652",
+            "priority": "Blocker"
+        },
+        {
+            "key": "HIVE-14619",
+            "priority": "Critical"
+        },
+        {
+            "key": "HIVE-14617",
+            "priority": "Major"
+        },
+        {
+            "key": "HIVE-14591",
+            "priority": "Major"
+        },
+        {
+            "key": "HIVE-14566",
+            "priority": "Critical"
+        },
+        {
+            "key": "HIVE-14564",
+            "priority": "Critical"
+        },
+        {
+            "key": "HIVE-14563",
+            "priority": "Major"
+        },
+        {
+            "key": "HIVE-14557",
+            "priority": "Major"
+        },
+        {
+            "key": "HIVE-14530",
+            "priority": "Major"
+        },
+        {
+            "key": "HIVE-14483",
+            "priority": "Critical"
+        },
+        {
+            "key": "HIVE-14463",
+            "priority": "Major"
+        },
+        {
+            "key": "HIVE-14424",
+            "priority": "Major"
+        },
+        {
+            "key": "HIVE-14402",
+            "priority": "Major"
+        },
+        {
+            "key": "HIVE-14397",
+            "priority": "Critical"
+        },
+        {
+            "key": "HIVE-14394",
+            "priority": "Major"
+        },
+        {
+            "key": "HIVE-14393",
+            "priority": "Major"
+        },
+        {
+            "key": "HIVE-14381",
+            "priority": "Major"
+        },
+        {
+            "key": "HIVE-14367",
+            "priority": "Major"
+        },
+        {
+            "key": "HIVE-14355",
+            "priority": "Critical"
+        },
+        {
+            "key": "HIVE-14339",
+            "priority": "Major"
+        },
+        {
+            "key": "HIVE-14338",
+            "priority": "Major"
+        },
+        {
+            "key": "HIVE-14333",
+            "priority": "Critical"
+        },
+        {
+            "key": "HIVE-14330",
+            "priority": "Critical"
+        },
+        {
+            "key": "HIVE-14326",
+            "priority": "Critical"
+        },
+        {
+            "key": "HIVE-14324",
+            "priority": "Critical"
+        },
+        {
+            "key": "HIVE-14322",
+            "priority": "Major"
+        },
+        {
+            "key": "HIVE-14310",
+            "priority": "Critical"
+        },
+        {
+            "key": "HIVE-14308",
+            "priority": "Major"
+        },
+        {
+            "key": "HIVE-14295",
+            "priority": "Minor"
+        },
+        {
+            "key": "HIVE-14294",
+            "priority": "Major"
+        },
+        {
+            "key": "HIVE-14293",
+            "priority": "Major"
+        },
+        {
+            "key": "HIVE-14292",
+            "priority": "Major"
+        },
+        {
+            "key": "HIVE-14258",
+            "priority": "Major"
+        },
+        {
+            "key": "HIVE-14254",
+            "priority": "Minor"
+        },
+        {
+            "key": "HIVE-14244",
+            "priority": "Major"
+        },
+        {
+            "key": "HIVE-14236",
+            "priority": "Major"
+        },
+        {
+            "key": "HIVE-14234",
+            "priority": "Minor"
+        },
+        {
+            "key": "HIVE-14210",
+            "priority": "Major"
+        },
+        {
+            "key": "HIVE-14197",
+            "priority": "Major"
+        },
+        {
+            "key": "HIVE-14192",
+            "priority": "Major"
+        },
+        {
+            "key": "HIVE-14184",
+            "priority": "Major"
+        },
+        {
+            "key": "HIVE-14178",
+            "priority": "Major"
+        },
+        {
+            "key": "HIVE-14176",
+            "priority": "Major"
+        },
+        {
+            "key": "HIVE-14175",
+            "priority": "Major"
+        },
+        {
+            "key": "HIVE-14153",
+            "priority": "Major"
+        },
+        {
+            "key": "HIVE-14149",
+            "priority": "Major"
+        },
+        {
+            "key": "HIVE-14144",
+            "priority": "Major"
+        },
+        {
+            "key": "HIVE-14141",
+            "priority": "Minor"
+        },
+        {
+            "key": "HIVE-14132",
+            "priority": "Major"
+        },
+        {
+            "key": "HIVE-14126",
+            "priority": "Major"
+        },
+        {
+            "key": "HIVE-14122",
+            "priority": "Critical"
+        },
+        {
+            "key": "HIVE-14115",
+            "priority": "Minor"
+        },
+        {
+            "key": "HIVE-14098",
+            "priority": "Major"
+        },
+        {
+            "key": "HIVE-14090",
+            "priority": "Major"
+        },
+        {
+            "key": "HIVE-14073",
+            "priority": "Major"
+        },
+        {
+            "key": "HIVE-14062",
+            "priority": "Major"
+        },
+        {
+            "key": "HIVE-14060",
+            "priority": "Major"
+        },
+        {
+            "key": "HIVE-14059",
+            "priority": "Minor"
+        },
+        {
+            "key": "HIVE-14053",
+            "priority": "Minor"
+        },
+        {
+            "key": "HIVE-14010",
+            "priority": "Major"
+        },
+        {
+            "key": "HIVE-14004",
+            "priority": "Major"
+        },
+        {
+            "key": "HIVE-14003",
+            "priority": "Major"
+        },
+        {
+            "key": "HIVE-13997",
+            "priority": "Major"
+        },
+        {
+            "key": "HIVE-13973",
+            "priority": "Major"
+        },
+        {
+            "key": "HIVE-13972",
+            "priority": "Blocker"
+        },
+        {
+            "key": "HIVE-13961",
+            "priority": "Blocker"
+        },
+        {
+            "key": "HIVE-13955",
+            "priority": "Blocker"
+        },
+        {
+            "key": "HIVE-13945",
+            "priority": "Critical"
+        },
+        {
+            "key": "HIVE-13934",
+            "priority": "Major"
+        },
+        {
+            "key": "HIVE-13929",
+            "priority": "Blocker"
+        },
+        {
+            "key": "HIVE-13927",
+            "priority": "Major"
+        },
+        {
+            "key": "HIVE-13924",
+            "priority": "Critical"
+        },
+        {
+            "key": "HIVE-13912",
+            "priority": "Blocker"
+        },
+        {
+            "key": "HIVE-13911",
+            "priority": "Major"
+        },
+        {
+            "key": "HIVE-13904",
+            "priority": "Major"
+        },
+        {
+            "key": "HIVE-13887",
+            "priority": "Major"
+        },
+        {
+            "key": "HIVE-13882",
+            "priority": "Major"
+        },
+        {
+            "key": "HIVE-13878",
+            "priority": "Major"
+        },
+        {
+            "key": "HIVE-13876",
+            "priority": "Critical"
+        },
+        {
+            "key": "HIVE-13872",
+            "priority": "Major"
+        },
+        {
+            "key": "HIVE-13867",
+            "priority": "Blocker"
+        },
+        {
+            "key": "HIVE-13863",
+            "priority": "Major"
+        },
+        {
+            "key": "HIVE-13861",
+            "priority": "Major"
+        },
+        {
+            "key": "HIVE-13859",
+            "priority": "Major"
+        },
+        {
+            "key": "HIVE-13856",
+            "priority": "Blocker"
+        },
+        {
+            "key": "HIVE-13849",
+            "priority": "Critical"
+        },
+        {
+            "key": "HIVE-13845",
+            "priority": "Minor"
+        },
+        {
+            "key": "HIVE-13841",
+            "priority": "Major"
+        },
+        {
+            "key": "HIVE-13840",
+            "priority": "Critical"
+        },
+        {
+            "key": "HIVE-13834",
+            "priority": "Major"
+        },
+        {
+            "key": "HIVE-13833",
+            "priority": "Minor"
+        },
+        {
+            "key": "HIVE-13832",
+            "priority": "Major"
+        },
+        {
+            "key": "HIVE-13831",
+            "priority": "Major"
+        },
+        {
+            "key": "HIVE-13821",
+            "priority": "Critical"
+        },
+        {
+            "key": "HIVE-13818",
+            "priority": "Critical"
+        },
+        {
+            "key": "HIVE-13809",
+            "priority": "Major"
+        },
+        {
+            "key": "HIVE-13784",
+            "priority": "Blocker"
+        },
+        {
+            "key": "HIVE-13767",
+            "priority": "Major"
+        },
+        {
+            "key": "HIVE-13753",
+            "priority": "Major"
+        },
+        {
+            "key": "HIVE-13751",
+            "priority": "Major"
+        },
+        {
+            "key": "HIVE-13743",
+            "priority": "Major"
+        },
+        {
+            "key": "HIVE-13730",
+            "priority": "Blocker"
+        },
+        {
+            "key": "HIVE-13728",
+            "priority": "Major"
+        },
+        {
+            "key": "HIVE-13720",
+            "priority": "Major"
+        },
+        {
+            "key": "HIVE-13719",
+            "priority": "Major"
+        },
+        {
+            "key": "HIVE-13712",
+            "priority": "Major"
+        },
+        {
+            "key": "HIVE-13705",
+            "priority": "Major"
+        },
+        {
+            "key": "HIVE-13701",
+            "priority": "Major"
+        },
+        {
+            "key": "HIVE-13700",
+            "priority": "Major"
+        },
+        {
+            "key": "HIVE-13693",
+            "priority": "Major"
+        },
+        {
+            "key": "HIVE-13686",
+            "priority": "Major"
+        },
+        {
+            "key": "HIVE-13683",
+            "priority": "Major"
+        },
+        {
+            "key": "HIVE-13671",
+            "priority": "Major"
+        },
+        {
+            "key": "HIVE-13645",
+            "priority": "Minor"
+        },
+        {
+            "key": "HIVE-13628",
+            "priority": "Major"
+        },
+        {
+            "key": "HIVE-13622",
+            "priority": "Critical"
+        },
+        {
+            "key": "HIVE-13621",
+            "priority": "Major"
+        },
+        {
+            "key": "HIVE-13619",
+            "priority": "Major"
+        },
+        {
+            "key": "HIVE-13599",
+            "priority": "Critical"
+        },
+        {
+            "key": "HIVE-13572",
+            "priority": "Major"
+        },
+        {
+            "key": "HIVE-13563",
+            "priority": "Major"
+        },
+        {
+            "key": "HIVE-13533",
+            "priority": "Major"
+        },
+        {
+            "key": "HIVE-13510",
+            "priority": "Critical"
+        },
+        {
+            "key": "HIVE-13494",
+            "priority": "Major"
+        },
+        {
+            "key": "HIVE-13488",
+            "priority": "Major"
+        },
+        {
+            "key": "HIVE-13487",
+            "priority": "Major"
+        },
+        {
+            "key": "HIVE-13485",
+            "priority": "Major"
+        },
+        {
+            "key": "HIVE-13458",
+            "priority": "Major"
+        },
+        {
+            "key": "HIVE-13452",
+            "priority": "Major"
+        },
+        {
+            "key": "HIVE-13438",
+            "priority": "Major"
+        },
+        {
+            "key": "HIVE-13434",
+            "priority": "Major"
+        },
+        {
+            "key": "HIVE-13396",
+            "priority": "Major"
+        },
+        {
+            "key": "HIVE-13388",
+            "priority": "Major"
+        },
+        {
+            "key": "HIVE-13383",
+            "priority": "Major"
+        },
+        {
+            "key": "HIVE-13361",
+            "priority": "Critical"
+        },
+        {
+            "key": "HIVE-13343",
+            "priority": "Major"
+        },
+        {
+            "key": "HIVE-13342",
+            "priority": "Major"
+        },
+        {
+            "key": "HIVE-13330",
+            "priority": "Critical"
+        },
+        {
+            "key": "HIVE-13327",
+            "priority": "Major"
+        },
+        {
+            "key": "HIVE-13325",
+            "priority": "Major"
+        },
+        {
+            "key": "HIVE-13320",
+            "priority": "Major"
+        },
+        {
+            "key": "HIVE-13291",
+            "priority": "Major"
+        },
+        {
+            "key": "HIVE-13287",
+            "priority": "Major"
+        },
+        {
+            "key": "HIVE-13285",
+            "priority": "Critical"
+        },
+        {
+            "key": "HIVE-13284",
+            "priority": "Major"
+        },
+        {
+            "key": "HIVE-13269",
+            "priority": "Major"
+        },
+        {
+            "key": "HIVE-13267",
+            "priority": "Major"
+        },
+        {
+            "key": "HIVE-13262",
+            "priority": "Major"
+        },
+        {
+            "key": "HIVE-13258",
+            "priority": "Major"
+        },
+        {
+            "key": "HIVE-13255",
+            "priority": "Major"
+        },
+        {
+            "key": "HIVE-13251",
+            "priority": "Major"
+        },
+        {
+            "key": "HIVE-13246",
+            "priority": "Trivial"
+        },
+        {
+            "key": "HIVE-13242",
+            "priority": "Major"
+        },
+        {
+            "key": "HIVE-13233",
+            "priority": "Major"
+        },
+        {
+            "key": "HIVE-13227",
+            "priority": "Major"
+        },
+        {
+            "key": "HIVE-13223",
+            "priority": "Major"
+        },
+        {
+            "key": "HIVE-13210",
+            "priority": "Major"
+        },
+        {
+            "key": "HIVE-13209",
+            "priority": "Major"
+        },
+        {
+            "key": "HIVE-13199",
+            "priority": "Major"
+        },
+        {
+            "key": "HIVE-13197",
+            "priority": "Major"
+        },
+        {
+            "key": "HIVE-13191",
+            "priority": "Major"
+        },
+        {
+            "key": "HIVE-13185",
+            "priority": "Major"
+        },
+        {
+            "key": "HIVE-13163",
+            "priority": "Major"
+        },
+        {
+            "key": "HIVE-13153",
+            "priority": "Major"
+        },
+        {
+            "key": "HIVE-13135",
+            "priority": "Major"
+        },
+        {
+            "key": "HIVE-13134",
+            "priority": "Major"
+        },
+        {
+            "key": "HIVE-13128",
+            "priority": "Critical"
+        },
+        {
+            "key": "HIVE-13110",
+            "priority": "Major"
+        },
+        {
+            "key": "HIVE-13100",
+            "priority": "Major"
+        },
+        {
+            "key": "HIVE-13096",
+            "priority": "Major"
+        },
+        {
+            "key": "HIVE-13094",
+            "priority": "Major"
+        },
+        {
+            "key": "HIVE-13089",
+            "priority": "Major"
+        },
+        {
+            "key": "HIVE-13087",
+            "priority": "Major"
+        },
+        {
+            "key": "HIVE-13086",
+            "priority": "Major"
+        },
+        {
+            "key": "HIVE-13083",
+            "priority": "Major"
+        },
+        {
+            "key": "HIVE-13079",
+            "priority": "Major"
+        },
+        {
+            "key": "HIVE-13077",
+            "priority": "Major"
+        },
+        {
+            "key": "HIVE-13070",
+            "priority": "Major"
+        },
+        {
+            "key": "HIVE-13062",
+            "priority": "Major"
+        },
+        {
+            "key": "HIVE-13042",
+            "priority": "Major"
+        },
+        {
+            "key": "HIVE-13036",
+            "priority": "Major"
+        },
+        {
+            "key": "HIVE-13032",
+            "priority": "Blocker"
+        },
+        {
+            "key": "HIVE-13016",
+            "priority": "Major"
+        },
+        {
+            "key": "HIVE-13015",
+            "priority": "Major"
+        },
+        {
+            "key": "HIVE-12999",
+            "priority": "Major"
+        },
+        {
+            "key": "HIVE-12995",
+            "priority": "Major"
+        },
+        {
+            "key": "HIVE-12993",
+            "priority": "Major"
+        },
+        {
+            "key": "HIVE-12990",
+            "priority": "Major"
+        },
+        {
+            "key": "HIVE-12964",
+            "priority": "Major"
+        },
+        {
+            "key": "HIVE-12937",
+            "priority": "Major"
+        },
+        {
+            "key": "HIVE-12933",
+            "priority": "Major"
+        },
+        {
+            "key": "HIVE-12911",
+            "priority": "Blocker"
+        },
+        {
+            "key": "HIVE-12879",
+            "priority": "Major"
+        },
+        {
+            "key": "HIVE-12864",
+            "priority": "Major"
+        },
+        {
+            "key": "HIVE-12846",
+            "priority": "Critical"
+        },
+        {
+            "key": "HIVE-12837",
+            "priority": "Major"
+        },
+        {
+            "key": "HIVE-12826",
+            "priority": "Major"
+        },
+        {
+            "key": "HIVE-12820",
+            "priority": "Major"
+        },
+        {
+            "key": "HIVE-12812",
+            "priority": "Major"
+        },
+        {
+            "key": "HIVE-12809",
+            "priority": "Major"
+        },
+        {
+            "key": "HIVE-12800",
+            "priority": "Major"
+        },
+        {
+            "key": "HIVE-12792",
+            "priority": "Blocker"
+        },
+        {
+            "key": "HIVE-12762",
+            "priority": "Major"
+        },
+        {
+            "key": "HIVE-12758",
+            "priority": "Major"
+        },
+        {
+            "key": "HIVE-12757",
+            "priority": "Major"
+        },
+        {
+            "key": "HIVE-12752",
+            "priority": "Minor"
+        },
+        {
+            "key": "HIVE-12743",
+            "priority": "Major"
+        },
+        {
+            "key": "HIVE-12741",
+            "priority": "Major"
+        },
+        {
+            "key": "HIVE-12735",
+            "priority": "Major"
+        },
+        {
+            "key": "HIVE-12728",
+            "priority": "Critical"
+        },
+        {
+            "key": "HIVE-12712",
+            "priority": "Major"
+        },
+        {
+            "key": "HIVE-12694",
+            "priority": "Major"
+        },
+        {
+            "key": "HIVE-12687",
+            "priority": "Major"
+        },
+        {
+            "key": "HIVE-12685",
+            "priority": "Major"
+        },
+        {
+            "key": "HIVE-12684",
+            "priority": "Major"
+        },
+        {
+            "key": "HIVE-12662",
+            "priority": "Major"
+        },
+        {
+            "key": "HIVE-12656",
+            "priority": "Major"
+        },
+        {
+            "key": "HIVE-12644",
+            "priority": "Major"
+        },
+        {
+            "key": "HIVE-12635",
+            "priority": "Major"
+        },
+        {
+            "key": "HIVE-12633",
+            "priority": "Major"
+        },
+        {
+            "key": "HIVE-12614",
+            "priority": "Minor"
+        },
+        {
+            "key": "HIVE-12609",
+            "priority": "Major"
+        },
+        {
+            "key": "HIVE-12584",
+            "priority": "Critical"
+        },
+        {
+            "key": "HIVE-12478",
+            "priority": "Major"
+        },
+        {
+            "key": "HIVE-12165",
+            "priority": "Critical"
+        },
+        {
+            "key": "HIVE-7239",
+            "priority": "Major"
+        }
+    ]
+}
